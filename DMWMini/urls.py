@@ -18,9 +18,16 @@ from django.urls import path, include
 from Sanalyzer import urls
 from Sanalyzer.views import *
 
+from django.conf import settings
+from django.views.static import serve
+from django.conf.urls import url
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('main/', include(urls)),
     path('products.json', request_products),
-    path('sentiments.json', request_sentiments)
+    path('sentiments.json', request_sentiments),
+
+    url(r'^media/(?P<path>.*)$', serve,{'document_root':       settings.MEDIA_ROOT}), 
+    url(r'^static/(?P<path>.*)$', serve,{'document_root': settings.STATIC_ROOT}), 
 ]
