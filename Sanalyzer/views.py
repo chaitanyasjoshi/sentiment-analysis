@@ -16,7 +16,7 @@ def search(request, search=None):
 
 def request_products(request):
     path = os.path.dirname(os.path.abspath(__file__))
-    with open(path + '\\sentiments\\Scrapers\\products.json') as f:
+    with open(path + '/sentiments/Scrapers/products.json') as f:
         data = json.load(f)
     return JsonResponse(data, safe=False)
 
@@ -27,7 +27,7 @@ def find_reviews(request, index=None):
     link = ''
     count = 0
     path = os.path.dirname(os.path.abspath(__file__))
-    with open(path + '\\sentiments\\Scrapers\\products.json') as f:
+    with open(path + '/sentiments/Scrapers/products.json') as f:
         dic = json.load(f)
         for i in dic['data']:
             if count == int(index):
@@ -40,6 +40,6 @@ def find_reviews(request, index=None):
 
 def request_sentiments(request):
     path = os.path.dirname(os.path.abspath(__file__))
-    with open(path + '\\sentiments\\Scrapers\\sentiments.json') as f:
+    with open(path + '/sentiments/Scrapers/sentiments.json') as f:
         data = json.load(f)
     return JsonResponse(data, safe=False)
