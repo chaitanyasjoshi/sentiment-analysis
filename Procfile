@@ -1,1 +1,1 @@
-web: gunicorn DMWMini.wsgi --log-file -
+web: gunicorn SA.wsgi --log-file -
