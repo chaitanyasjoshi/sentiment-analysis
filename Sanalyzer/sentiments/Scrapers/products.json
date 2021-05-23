@@ -1,363 +1,2163 @@
 {
     "data": [
         {
-            "link": "/motorola-g9-power-electric-violet-64-gb/p/itma226347832eac?pid=MOBFT8M8BJUYZGGC&lid=LSTMOBFT8M8BJUYZGGCZMCTY3&marketplace=FLIPKART&srno=s_1_1&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFT8M8BJUYZGGC.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola G9 Power (Electric Violet, 64 GB)",
-            "price": "\u20b911,999",
-            "ratings": "5,263",
-            "reviews": "621",
-            "stars": "4.2",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-e7-plus-misty-blue-64-gb/p/itm9a59be77f1cd2?pid=MOBFTYWW8QWUYDZU&lid=LSTMOBFTYWW8QWUYDZUPJIZFF&marketplace=FLIPKART&srno=s_1_2&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFTYWW8QWUYDZU.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola E7 Plus (Misty Blue, 64 GB)",
-            "price": "\u20b99,499",
-            "ratings": "30,654",
-            "reviews": "2,884",
-            "stars": "4.2",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-one-fusion-twilight-blue-128-gb/p/itm9c0e4b9b56acd?pid=MOBFRFXHZRMXDDNZ&lid=LSTMOBFRFXHZRMXDDNZW6P8X2&marketplace=FLIPKART&srno=s_1_3&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFRFXHZRMXDDNZ.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola One Fusion+ (Twilight Blue, 128 GB)",
-            "price": "\u20b917,499",
-            "ratings": "81,382",
-            "reviews": "9,428",
-            "stars": "4.4",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-g9-power-metallic-sage-64-gb/p/itm442fe68247c48?pid=MOBFT8M8CNRK8K7G&lid=LSTMOBFT8M8CNRK8K7GPIMY4B&marketplace=FLIPKART&srno=s_1_4&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFT8M8CNRK8K7G.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola G9 Power (Metallic Sage, 64 GB)",
-            "price": "\u20b911,999",
-            "ratings": "5,263",
-            "reviews": "621",
-            "stars": "4.2",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-one-fusion-moonlight-white-128-gb/p/itm07749a481ee89?pid=MOBFRFXHHWBM6BRR&lid=LSTMOBFRFXHHWBM6BRRSNES2A&marketplace=FLIPKART&srno=s_1_5&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFRFXHHWBM6BRR.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola One Fusion+ (Moonlight White, 128 GB)",
-            "price": "\u20b917,499",
-            "ratings": "81,382",
-            "reviews": "9,428",
-            "stars": "4.4",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-e7-plus-twilight-orange-64-gb/p/itmc69499824be93?pid=MOBFTYWWYHJTGKG2&lid=LSTMOBFTYWWYHJTGKG2UVM5M2&marketplace=FLIPKART&srno=s_1_6&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFTYWWYHJTGKG2.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola E7 Plus (Twilight Orange, 64 GB)",
-            "price": "\u20b99,499",
-            "ratings": "30,654",
-            "reviews": "2,884",
-            "stars": "4.2",
-            "sentible": 1
-        },
-        {
-            "link": "/moto-g-5g-volcanic-grey-128-gb/p/itm5bafe435ec358?pid=MOBFTZE7GER2URWX&lid=LSTMOBFTZE7GER2URWXHZUQKB&marketplace=FLIPKART&srno=s_1_7&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFTZE7GER2URWX.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Moto G 5G (Volcanic Grey, 128 GB)",
-            "price": "\u20b920,999",
-            "ratings": "2,915",
-            "reviews": "387",
-            "stars": "4.3",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-g9-sapphire-blue-64-gb/p/itm483cb18471531?pid=MOBFTYWWS6RYZRZH&lid=LSTMOBFTYWWS6RYZRZHHL0ZN0&marketplace=FLIPKART&srno=s_1_8&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFTYWWS6RYZRZH.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola G9 (Sapphire Blue, 64 GB)",
+            "link": "/samsung-galaxy-f12-sky-blue-64-gb/p/itm0319ce24f74aa?pid=MOBGFG79BVGDHGWV&lid=LSTMOBGFG79BVGDHGWVGF2CRI&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBGFG79BVGDHGWV.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F12 (Sky Blue, 64 GB)",
             "price": "\u20b910,999",
-            "ratings": "35,359",
-            "reviews": "3,825",
+            "ratings": "7,928",
+            "reviews": "775",
             "stars": "4.2",
             "sentible": 1
         },
         {
-            "link": "/moto-g-5g-frosted-silver-128-gb/p/itmd01e39924e78a?pid=MOBFTZE7GSGZFGZN&lid=LSTMOBFTZE7GSGZFGZNNUUWGU&marketplace=FLIPKART&srno=s_1_9&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFTZE7GSGZFGZN.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Moto G 5G (Frosted Silver, 128 GB)",
-            "price": "\u20b920,999",
-            "ratings": "2,915",
-            "reviews": "387",
+            "link": "/samsung-galaxy-f12-sea-green-64-gb/p/itm4d3582cd695fd?pid=MOBGFG794YPQ9RAE&lid=LSTMOBGFG794YPQ9RAEGUPPTW&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBGFG794YPQ9RAE.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F12 (Sea Green, 64 GB)",
+            "price": "\u20b910,999",
+            "ratings": "7,928",
+            "reviews": "775",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f12-celestial-black-64-gb/p/itmaae10b8db3909?pid=MOBGFG79FUDPXZXQ&lid=LSTMOBGFG79FUDPXZXQH5PM6N&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBGFG79FUDPXZXQ.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F12 (Celestial Black, 64 GB)",
+            "price": "\u20b910,999",
+            "ratings": "7,928",
+            "reviews": "775",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f12-sea-green-128-gb/p/itm632faa123e085?pid=MOBGFG79ZZFRGZ7U&lid=LSTMOBGFG79ZZFRGZ7ULB8HLU&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBGFG79ZZFRGZ7U.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F12 (Sea Green, 128 GB)",
+            "price": "\u20b911,999",
+            "ratings": "7,928",
+            "reviews": "775",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f12-celestial-black-128-gb/p/itm794cccf7936c0?pid=MOBGFG79NWFGVZRY&lid=LSTMOBGFG79NWFGVZRYB7JYVS&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_5&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBGFG79NWFGVZRY.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F12 (Celestial Black, 128 GB)",
+            "price": "\u20b911,999",
+            "ratings": "7,928",
+            "reviews": "775",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-1200/p/itmeb6w98vmhffjy?pid=MOBDA2CFCQ6CFHTZ&lid=LSTMOBDA2CFCQ6CFHTZKLVHX9&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_6&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBDA2CFCQ6CFHTZ.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru 1200",
+            "price": "\u20b91,319",
+            "ratings": "1,54,897",
+            "reviews": "13,902",
             "stars": "4.3",
             "sentible": 1
         },
         {
-            "link": "/moto-one-black-64-gb/p/itmffvtjuqejb7bd?pid=MOBFFFTZXDKWXA84&lid=LSTMOBFFFTZXDKWXA84M413A8&marketplace=FLIPKART&srno=s_1_10&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFFFTZXDKWXA84.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Moto One (Black, 64 GB)",
+            "link": "/samsung-galaxy-f12-sky-blue-128-gb/p/itmbe3d99dae33a0?pid=MOBGFG79BPTJWHKS&lid=LSTMOBGFG79BPTJWHKSO3JF0R&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_7&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBGFG79BPTJWHKS.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F12 (Sky Blue, 128 GB)",
+            "price": "\u20b911,999",
+            "ratings": "7,928",
+            "reviews": "775",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f41-fusion-green-64-gb/p/itmce548f0500d55?pid=MOBFV5PWXJRV9WZZ&lid=LSTMOBFV5PWXJRV9WZZSWCHLG&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_8&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBFV5PWXJRV9WZZ.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F41 (Fusion Green, 64 GB)",
             "price": "\u20b914,999",
-            "ratings": "479",
-            "reviews": "62",
-            "stars": "4.1",
+            "ratings": "2,59,600",
+            "reviews": "30,481",
+            "stars": "4.3",
             "sentible": 1
         },
         {
-            "link": "/motorola-edge-thunder-grey-256-gb/p/itm89c1f91a0a0e3?pid=MOBFQMAAHRRGMHFH&lid=LSTMOBFQMAAHRRGMHFHLPPYPL&marketplace=FLIPKART&srno=s_1_11&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFQMAAHRRGMHFH.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola Edge+ (Thunder Grey, 256 GB)",
-            "price": "\u20b964,999",
+            "link": "/samsung-galaxy-f41-fusion-black-64-gb/p/itmde5e6cd41fc4d?pid=MOBFV5PWGEVNPWS2&lid=LSTMOBFV5PWGEVNPWS2VG4KHD&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_9&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBFV5PWGEVNPWS2.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F41 (Fusion Black, 64 GB)",
+            "price": "\u20b914,999",
+            "ratings": "2,59,600",
+            "reviews": "30,481",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-fm-plus-sm-b110e-d/p/itmf4w45bqfdfnef?pid=MOBE996SKVGGH94Q&lid=LSTMOBE996SKVGGH94QA0OBOX&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBE996SKVGGH94Q.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru FM Plus SM-B110E/D",
+            "price": "\u20b91,449",
+            "ratings": "55,754",
+            "reviews": "5,692",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f41-fusion-blue-64-gb/p/itmcdc5e93b44d55?pid=MOBFV5PWHRYTYYJF&lid=LSTMOBFV5PWHRYTYYJFLE0GZO&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_11&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBFV5PWHRYTYYJF.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F41 (Fusion Blue, 64 GB)",
+            "price": "\u20b914,999",
+            "ratings": "2,59,600",
+            "reviews": "30,481",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-music-2/p/itmdz9am8xehucbx?pid=MOBDZ9AMJ472Y9MW&lid=LSTMOBDZ9AMJ472Y9MWC72SB0&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_12&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBDZ9AMJ472Y9MW.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru Music 2",
+            "price": "\u20b91,868",
+            "ratings": "1,69,066",
+            "reviews": "16,454",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f41-fusion-green-128-gb/p/itma41850a2f9e19?pid=MOBFV5PWEX7WJS7R&lid=LSTMOBFV5PWEX7WJS7RBAY0T5&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_13&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBFV5PWEX7WJS7R.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F41 (Fusion Green, 128 GB)",
+            "price": "\u20b916,499",
+            "ratings": "2,59,600",
+            "reviews": "30,481",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f41-fusion-black-128-gb/p/itme88b8042fe996?pid=MOBFV5PWUHRY2MZZ&lid=LSTMOBFV5PWUHRY2MZZXXFGKQ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_14&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBFV5PWUHRY2MZZ.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F41 (Fusion Black, 128 GB)",
+            "price": "\u20b916,499",
+            "ratings": "2,59,600",
+            "reviews": "30,481",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-music-2/p/itme9zfpajsaffyj?pid=MOBE9NT8G2QRT2Z4&lid=LSTMOBE9NT8G2QRT2Z41SMXRY&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_15&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBE9NT8G2QRT2Z4.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru Music 2",
+            "price": "\u20b91,710",
+            "ratings": "1,69,066",
+            "reviews": "16,454",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f41-fusion-blue-128-gb/p/itm4769d0667cdf9?pid=MOBFV5PWG5MGD4CF&lid=LSTMOBFV5PWG5MGD4CFZ8YQJZ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_16&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBFV5PWG5MGD4CF.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F41 (Fusion Blue, 128 GB)",
+            "price": "\u20b916,499",
+            "ratings": "2,59,600",
+            "reviews": "30,481",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-music-2/p/itme9tgwmffh64cy?pid=MOBE9TGVE7ZBRAEN&lid=LSTMOBE9TGVE7ZBRAENZIQX1Q&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_17&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBE9TGVE7ZBRAEN.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru Music 2",
+            "price": "\u20b91,888",
+            "ratings": "1,69,066",
+            "reviews": "16,454",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-fm-plus-sm-b110e-d/p/itmew8srgqg73y6p?pid=MOBEA9SJWSGMFVPP&lid=LSTMOBEA9SJWSGMFVPP8XIDUP&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_18&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBEA9SJWSGMFVPP.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru FM Plus SM-B110E/D",
+            "price": "\u20b91,449",
+            "ratings": "55,754",
+            "reviews": "5,692",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f02s-diamond-blue-32-gb/p/itm971ab77f825aa?pid=MOBGFG79GQGAYVNV&lid=LSTMOBGFG79GQGAYVNVU1F9M9&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_19&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBGFG79GQGAYVNV.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F02s (Diamond Blue, 32 GB)",
+            "price": "\u20b98,999",
             "ratings": "250",
-            "reviews": "46",
+            "reviews": "23",
             "stars": "4.2",
             "sentible": 1
         },
         {
-            "link": "/motorola-zx-pro-139cm-55-inch-ultra-hd-4k-led-smart-android-tv-wireless-gamepad/p/itmff4127e86e2ad?pid=TVSFUS29J4CEE3NM&lid=LSTTVSFUS29J4CEE3NMQCYHMV&marketplace=FLIPKART&srno=s_1_12&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.TVSFUS29J4CEE3NM.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola ZX Pro 139cm (55 inch) Ultra HD (4K) LED Smart Android TV  with Wireless Gamepad",
-            "price": "\u20b939,999",
-            "ratings": "354",
-            "reviews": "80",
-            "stars": "4.4",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-pace-130-google-assistant-wired-headset/p/itmbcd9b74c17ef5?pid=ACCFFUGFBZETS4ZT&lid=LSTACCFFUGFBZETS4ZTN6G4QB&marketplace=FLIPKART&srno=s_1_13&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFFUGFBZETS4ZT.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola Pace 130 with Google Assistant Wired Headset",
-            "price": "\u20b9399",
-            "ratings": "1,473",
-            "reviews": "162",
+            "link": "/samsung-galaxy-f02s-diamond-blue-64-gb/p/itm18eea4bb2059c?pid=MOBGFG79FKRYJ8D4&lid=LSTMOBGFG79FKRYJ8D4E6XNLA&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_20&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBGFG79FKRYJ8D4.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F02s (Diamond Blue, 64 GB)",
+            "price": "\u20b99,999",
+            "ratings": "290",
+            "reviews": "13",
             "stars": "4.2",
             "sentible": 1
         },
         {
-            "link": "/motorola-razr-5g-polished-graphite-256-gb/p/itmf4a460fcfa13d?pid=MOBFVH78K4YFAUVG&lid=LSTMOBFVH78K4YFAUVGBMDCOE&marketplace=FLIPKART&srno=s_1_14&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBFVH78K4YFAUVG.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola Razr 5G (Polished Graphite, 256 GB)",
-            "price": "\u20b91,24,999",
-            "ratings": "27",
-            "reviews": "2",
-            "stars": "4.3",
-            "sentible": 0
-        },
-        {
-            "link": "/moto-c-plus-pearl-white-16-gb/p/itmeuyd6nhzycmaa?pid=MOBEU9WRGVXDPBSF&lid=LSTMOBEU9WRGVXDPBSFADI9JQ&marketplace=FLIPKART&srno=s_1_15&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBEU9WRGVXDPBSF.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Moto C Plus (Pearl White, 16 GB)",
-            "price": "\u20b96,900",
-            "ratings": "3,64,426",
-            "reviews": "54,568",
-            "stars": "4.2",
-            "sentible": 1
-        },
-        {
-            "link": "/moto-e5-grey-flash-gray-16-gb/p/itmf6nfxhunmrhfb?pid=MOBF6N69FTFY8TAW&lid=LSTMOBF6N69FTFY8TAWPB0RXS&marketplace=FLIPKART&srno=s_1_16&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.MOBF6N69FTFY8TAW.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Moto E5 (Grey/Flash Gray, 16 GB)",
-            "price": "\u20b912,000",
-            "ratings": "2,812",
-            "reviews": "266",
+            "link": "/samsung-guru-1200/p/itmeb6wxfgbxphcw?pid=MOBDADMTTV7HXGTF&lid=LSTMOBDADMTTV7HXGTFKNGM04&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_21&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBDADMTTV7HXGTF.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru 1200",
+            "price": "\u20b91,310",
+            "ratings": "1,54,897",
+            "reviews": "13,902",
             "stars": "4.3",
             "sentible": 1
         },
         {
-            "link": "/motorola-zx2-100-3cm-40-inch-full-hd-led-smart-android-tv-dolby-atmos-vision/p/itm224f48c542525?pid=TVSFSK2E5JHFPHR5&lid=LSTTVSFSK2E5JHFPHR5EYGGN1&marketplace=FLIPKART&srno=s_1_17&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.TVSFSK2E5JHFPHR5.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola ZX2 100.3cm (40 inch) Full HD LED Smart Android TV  with Dolby Atmos and Dolby Vision",
-            "price": "\u20b921,999",
-            "ratings": "9,297",
-            "reviews": "1,784",
-            "stars": "4.4",
+            "link": "/samsung-galaxy-f02s-diamond-black-64-gb/p/itm9bd7eed56f2cf?pid=MOBGFG79NYAKZFH5&lid=LSTMOBGFG79NYAKZFH57TJ6C3&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_22&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBGFG79NYAKZFH5.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F02s (Diamond Black, 64 GB)",
+            "price": "\u20b99,999",
+            "ratings": "290",
+            "reviews": "13",
+            "stars": "4.2",
             "sentible": 1
         },
         {
-            "link": "/motorola-hp-bt-moto-escape-200-google-assistant-bluetooth-headset/p/itme5a43ddba0bce?pid=ACCFFUGFFB4DTFP5&lid=LSTACCFFUGFFB4DTFP5Z1UFTL&marketplace=FLIPKART&srno=s_1_18&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFFUGFFB4DTFP5.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola HP-BT-Moto-Escape 200 with Google Assistant Bluetooth Headset",
-            "price": "\u20b91,499",
-            "ratings": "10,916",
-            "reviews": "1,481",
+            "link": "/samsung-galaxy-a21s-blue-64-gb/p/itm2da4d839feeaf?pid=MOBFSFMJJBTXPTRR&lid=LSTMOBFSFMJJBTXPTRR4BE1KX&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_23&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBFSFMJJBTXPTRR.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A21s (Blue, 64 GB)",
+            "price": "\u20b912,999",
+            "ratings": "18,086",
+            "reviews": "1,692",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-1200/p/itme6gz6jczu5ygz?pid=MOBDADKKAEHYYA3G&lid=LSTMOBDADKKAEHYYA3GGUEHFT&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_1_24&otracker=search&fm=organic&iid=e9307232-6187-48f9-a700-6b22567117fb.MOBDADKKAEHYYA3G.SEARCH&ppt=None&ppn=None&ssid=4m5vo65x400000001619592129098&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru 1200",
+            "price": "\u20b91,332",
+            "ratings": "1,54,897",
+            "reviews": "13,902",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-gt/p/itmebpt3fjyrnpga?pid=MOBEBPT25VG3HGTZ&lid=LSTMOBEBPT25VG3HGTZV0KX3C&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_25&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBEBPT25VG3HGTZ.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru GT",
+            "price": "\u20b91,369",
+            "ratings": "3,330",
+            "reviews": "279",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-313-dual-sim/p/itmeu7kpzwu74ezu?pid=MOBEU7KPT3FFWJDJ&lid=LSTMOBEU7KPT3FFWJDJIDYUGP&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_26&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBEU7KPT3FFWJDJ.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 313 Dual Sim",
+            "price": "\u20b92,340",
+            "ratings": "20,468",
+            "reviews": "2,197",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a21s-white-64-gb/p/itm7c9ebb90b5080?pid=MOBFSFMJKQPBWJFB&lid=LSTMOBFSFMJKQPBWJFBBNW6ZF&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_27&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFSFMJKQPBWJFB.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A21s (White, 64 GB)",
+            "price": "\u20b912,999",
+            "ratings": "18,086",
+            "reviews": "1,692",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f62-laser-grey-128-gb/p/itmaf3ed4dbc2ee5?pid=MOBFZWSUZGKGHMHD&lid=LSTMOBFZWSUZGKGHMHD7IV39I&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_28&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFZWSUZGKGHMHD.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",
+            "price": "\u20b923,999",
+            "ratings": "11,788",
+            "reviews": "1,648",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-m01-core-blue-32-gb/p/itm4af92173df3c8?pid=MOBFUAEBY34F3GYV&lid=LSTMOBFUAEBY34F3GYVKDM9TL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_29&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFUAEBY34F3GYV.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG M01 core (Blue, 32 GB)",
+            "price": "\u20b96,199",
+            "ratings": "6,731",
+            "reviews": "583",
             "stars": "3.9",
             "sentible": 1
         },
         {
-            "link": "/motorola-zx-pro-127cm-50-inch-ultra-hd-4k-led-smart-android-tv-wireless-gamepad/p/itmd9c52ec159a80?pid=TVSFUS299GWKCPSW&lid=LSTTVSFUS299GWKCPSW8T93XD&marketplace=FLIPKART&srno=s_1_19&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.TVSFUS299GWKCPSW.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola ZX Pro 127cm (50 inch) Ultra HD (4K) LED Smart Android TV  with Wireless Gamepad",
-            "price": "\u20b934,999",
-            "ratings": "354",
-            "reviews": "80",
-            "stars": "4.4",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-amphisoundx-dolby-wireless-hdmi-arc-160-w-bluetooth-soundbar/p/itmd01cdf4876d9b?pid=ACCFHC3RQPR9SUUK&lid=LSTACCFHC3RQPR9SUUK4W9XVA&marketplace=FLIPKART&srno=s_1_20&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFHC3RQPR9SUUK.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola AmphisoundX Dolby Wireless with HDMI Arc 160 W Bluetooth Soundbar",
-            "price": "\u20b910,999",
-            "ratings": "2,253",
-            "reviews": "420",
-            "stars": "4.2",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-revou-108cm-43-inch-ultra-hd-4k-led-smart-android-tv-dolby-atmos-vision/p/itm88e4927366cce?pid=TVSFSEHNC2EXFCSH&lid=LSTTVSFSEHNC2EXFCSHHASBAK&marketplace=FLIPKART&srno=s_1_21&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.TVSFSEHNC2EXFCSH.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola Revou 108cm (43 inch) Ultra HD (4K) LED Smart Android TV  with Dolby Atmos and Dolby Vision",
-            "price": "\u20b931,999",
-            "ratings": "2,358",
-            "reviews": "499",
-            "stars": "4.4",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-sj6462-1-meter-m-micro-usb-cable/p/itmffnzexgg9yag2?pid=ACCFFNZEU4NGFGZG&lid=LSTACCFFNZEU4NGFGZGGB5QVY&marketplace=FLIPKART&srno=s_1_22&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFFNZEU4NGFGZG.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola SJ6462 1 meter 1 m Micro USB Cable",
-            "price": "\u20b9233",
-            "ratings": "2,541",
-            "reviews": "336",
-            "stars": "4.1",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-revou-139cm-55-inch-ultra-hd-4k-led-smart-android-tv-dolby-atmos-vision/p/itm6224748234fe7?pid=TVSFSEHNN2AXYGZA&lid=LSTTVSFSEHNN2AXYGZAGHSVW7&marketplace=FLIPKART&srno=s_1_23&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.TVSFSEHNN2AXYGZA.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola Revou 139cm (55 inch) Ultra HD (4K) LED Smart Android TV  with Dolby Atmos and Dolby Vision",
-            "price": "\u20b941,999",
-            "ratings": "2,358",
-            "reviews": "499",
-            "stars": "4.4",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-verve-rap-250-flexible-neckband-google-assistant-enabled-bluetooth-headset/p/itm13454d7e9a124?pid=ACCFKY7DQWC3PMHZ&lid=LSTACCFKY7DQWC3PMHZKCBHBV&marketplace=FLIPKART&srno=s_1_24&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFKY7DQWC3PMHZ.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola Verve Rap 250 Flexible neckband with Google Assistant enabled Bluetooth Headset",
-            "price": "\u20b91,499",
-            "ratings": "1,735",
-            "reviews": "198",
-            "stars": "3.9",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-zx-pro-109cm-43-inch-ultra-hd-4k-led-smart-android-tv-wireless-gamepad/p/itma695c124c5c56?pid=TVSFUS29Z2DBRWBY&lid=LSTTVSFUS29Z2DBRWBYWMEXGC&marketplace=FLIPKART&srno=s_1_25&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.TVSFUS29Z2DBRWBY.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola ZX Pro 109cm (43 inch) Ultra HD (4K) LED Smart Android TV  with Wireless Gamepad",
-            "price": "\u20b930,999",
-            "ratings": "354",
-            "reviews": "80",
-            "stars": "4.4",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-amphisoundx-hdmi-arc-150-w-bluetooth-home-theatre/p/itmc01eaf65e18a2?pid=ACCFHWFQYHJ7SGP3&lid=LSTACCFHWFQYHJ7SGP3TZ3JWJ&marketplace=FLIPKART&srno=s_1_26&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFHWFQYHJ7SGP3.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola AmphisoundX with HDMI Arc 150 W Bluetooth Home Theatre",
-            "price": "\u20b910,999",
-            "ratings": "1,012",
-            "reviews": "249",
-            "stars": "4.1",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-usb-rapid-charger-micro-usb-data-cable-fast-charging-10-w-2-mobile-detachable/p/itm4b46e8161ec41?pid=ACCFYTNBYVAXANEK&lid=LSTACCFYTNBYVAXANEKO0ZMDO&marketplace=FLIPKART&srno=s_1_27&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFYTNBYVAXANEK.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola USB Rapid Charger with Micro-USB Data Cable Fast charging 10 W 2 A Mobile Charger with Detach...",
-            "price": "\u20b9699",
-            "ratings": "20,757",
-            "reviews": "2,898",
-            "stars": "4.1",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-verve-buds-200-true-wireless-2-in-1-sport-earbuds-neckband-tws-bluetooth-headset/p/itmbcb15c9ee4ba9?pid=ACCFH8ZF4PHDBGZE&lid=LSTACCFH8ZF4PHDBGZEENG5ZI&marketplace=FLIPKART&srno=s_1_28&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFH8ZF4PHDBGZE.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola Verve Buds 200 True Wireless (2-in-1 Sport Earbuds) Neckband + TWS Bluetooth Headset",
-            "price": "\u20b92,299",
-            "ratings": "961",
-            "reviews": "96",
-            "stars": "3.5",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-sjsc44-10-w-2-mobile-charger-detachable-cable/p/itmc08274c95c3bf?pid=ACCFJZCQNXD24UBD&lid=LSTACCFJZCQNXD24UBDHZC8NR&marketplace=FLIPKART&srno=s_1_29&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFJZCQNXD24UBD.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola SJSC44 10 W 2 A Mobile Charger with Detachable Cable",
-            "price": "\u20b9599",
-            "ratings": "20,757",
-            "reviews": "2,898",
-            "stars": "4.1",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-amphisoundx-hdmi-arc-120-w-bluetooth-home-theatre/p/itm0af55a2bedca1?pid=ACCFPJ8UVSKTZWQP&lid=LSTACCFPJ8UVSKTZWQPUOHJ6S&marketplace=FLIPKART&srno=s_1_30&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFPJ8UVSKTZWQP.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola AmphisoundX with HDMI Arc 120 W Bluetooth Home Theatre",
-            "price": "\u20b98,994",
-            "ratings": "799",
-            "reviews": "148",
-            "stars": "4.2",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-zx2-80cm-32-inch-hd-ready-led-smart-android-tv-dolby-atmos-vision/p/itm6eae80a469f76?pid=TVSFSK2EHXZTQMDD&lid=LSTTVSFSK2EHXZTQMDDWWBIQ3&marketplace=FLIPKART&srno=s_1_31&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.TVSFSK2EHXZTQMDD.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola ZX2 80cm (32 inch) HD Ready LED Smart Android TV  with Dolby Atmos and Dolby Vision",
-            "price": "\u20b915,499",
-            "ratings": "9,297",
-            "reviews": "1,784",
-            "stars": "4.4",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-amphisoundx-convertible-soundbar-70-w-bluetooth-home-theatre/p/itmc186ebc2d2d0f?pid=ACCFPJ8UC48ADFJD&lid=LSTACCFPJ8UC48ADFJDP1HUVT&marketplace=FLIPKART&srno=s_1_32&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFPJ8UC48ADFJD.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola AmphisoundX Convertible Soundbar 70 W Bluetooth Home Theatre",
-            "price": "\u20b96,499",
-            "ratings": "365",
-            "reviews": "59",
-            "stars": "4.1",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-zx-107-6cm-43-inch-full-hd-led-smart-android-tv-wireless-gamepad/p/itmffvfvggjfydag?pid=TVSFFVFVVC9CMDVM&lid=LSTTVSFFVFVVC9CMDVMJOEMVI&marketplace=FLIPKART&srno=s_1_33&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.TVSFFVFVVC9CMDVM.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola ZX 107.6cm (43 inch) Full HD LED Smart Android TV  with Wireless Gamepad",
-            "price": "\u20b924,999",
-            "ratings": "19,513",
-            "reviews": "3,141",
+            "link": "/samsung-galaxy-f62-laser-green-128-gb/p/itm48722edba16c9?pid=MOBFZWSUZZ2Y7YYG&lid=LSTMOBFZWSUZZ2Y7YYGX2NE2S&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_30&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFZWSUZZ2Y7YYG.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F62 (Laser Green, 128 GB)",
+            "price": "\u20b925,999",
+            "ratings": "5,985",
+            "reviews": "823",
             "stars": "4.3",
             "sentible": 1
         },
         {
-            "link": "/motorola-amphisoundx-hdmi-arc-80-w-bluetooth-home-theatre/p/itm288ea0f59009f?pid=ACCFHWFQBCQU3N9A&lid=LSTACCFHWFQBCQU3N9AGCCBH2&marketplace=FLIPKART&srno=s_1_34&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFHWFQBCQU3N9A.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola AmphisoundX with HDMI Arc 80 W Bluetooth Home Theatre",
-            "price": "\u20b97,499",
-            "ratings": "883",
-            "reviews": "143",
+            "link": "/samsung-m01-core-black-16-gb/p/itmcc59efe93b40b?pid=MOBFUAEBGZKRFGHX&lid=LSTMOBFUAEBGZKRFGHXTOXCDL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_31&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFUAEBGZKRFGHX.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG M01 core (Black, 16 GB)",
+            "price": "\u20b94,999",
+            "ratings": "6,276",
+            "reviews": "508",
             "stars": "4",
             "sentible": 1
         },
         {
-            "link": "/motorola-qualcomm-turbopower-15w-wall-charger-usb-c-data-cable-15-w-3-mobile-detachable/p/itm1d985bac27469?pid=ACCFYTTGYUH2CDGK&lid=LSTACCFYTTGYUH2CDGKGSSJGC&marketplace=FLIPKART&srno=s_1_35&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFYTTGYUH2CDGK.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola Qualcomm TurboPower 15W Wall Charger with USB-C Data Cable Charger 15 W 3 A Mobile Charger wi...",
-            "price": "\u20b9799",
-            "ratings": "1,563",
-            "reviews": "210",
-            "stars": "4.1",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-verve-rap-100-sport-neckband-google-assistant-enabled-bluetooth-headset/p/itm81e141b2b5e5d?pid=ACCFH7TS3FWVESHZ&lid=LSTACCFH7TS3FWVESHZQTGJDM&marketplace=FLIPKART&srno=s_1_36&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFH7TS3FWVESHZ.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola Verve Rap 100 Sport neckband with Google Assistant enabled Bluetooth Headset",
-            "price": "\u20b91,099",
-            "ratings": "210",
-            "reviews": "20",
-            "stars": "3.6",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-sjsc54-qualcomm-turbo-power-18w-micro-usb-data-cable-mobile-charger-18-w-3-detachable/p/itm31d12b7e724a5?pid=ACCFGSXHFEENDHZR&lid=LSTACCFGSXHFEENDHZRHF1NJT&marketplace=FLIPKART&srno=s_1_37&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFGSXHFEENDHZR.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola SJSC54 Qualcomm Turbo Power 18W with Micro USB Data Cable Mobile Charger 18 W 3 A Mobile Char...",
-            "price": "\u20b9999",
-            "ratings": "2,059",
-            "reviews": "281",
-            "stars": "4.2",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-sjc00acb20et1-2-meter-m-usb-type-c-cable/p/itmfgtygq63bhynk?pid=ACCFGSZZ9SSFCSHK&lid=LSTACCFGSZZ9SSFCSHK3EM5XV&marketplace=FLIPKART&srno=s_1_38&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFGSZZ9SSFCSHK.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola SJC00ACB20ET1 2 meter 2 m USB Type C Cable",
-            "price": "\u20b9449",
-            "ratings": "1,410",
-            "reviews": "183",
-            "stars": "4.1",
-            "sentible": 1
-        },
-        {
-            "link": "/motorola-zx-80-5cm-32-inch-hd-ready-led-smart-android-tv-wireless-gamepad/p/itmffvfvsbyxgyz2?pid=TVSFFVFVMFGF3ZAN&lid=LSTTVSFFVFVMFGF3ZANBNVIDT&marketplace=FLIPKART&srno=s_1_39&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.TVSFFVFVMFGF3ZAN.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola ZX 80.5cm (32 inch) HD Ready LED Smart Android TV  with Wireless Gamepad",
-            "price": "\u20b914,999",
-            "ratings": "19,513",
-            "reviews": "3,141",
+            "link": "/samsung-galaxy-m31-space-black-64-gb/p/itme0c5a25c1e64a?pid=MOBFPNPSZWQ7YKGH&lid=LSTMOBFPNPSZWQ7YKGHBVXLSL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_32&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFPNPSZWQ7YKGH.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M31 (Space Black, 64 GB)",
+            "price": "\u20b915,315",
+            "ratings": "9,584",
+            "reviews": "746",
             "stars": "4.3",
             "sentible": 1
         },
         {
-            "link": "/motorola-sonic-boost-230-5-w-bluetooth-speaker/p/itm2b67c97535f13?pid=ACCFKNNHHHZPGCKR&lid=LSTACCFKNNHHHZPGCKRMCCLUA&marketplace=FLIPKART&srno=s_1_40&otracker=search&fm=organic&iid=ef80bd75-2b98-445d-9f2e-597b92df938a.ACCFKNNHHHZPGCKR.SEARCH&ssid=x88jdcuayo0000001609755309503&qH=750379b5926e9f72",
-            "name": "Motorola Sonic Boost 230 5 W Bluetooth  Speaker",
-            "price": "\u20b91,399",
-            "ratings": "264",
-            "reviews": "40",
+            "link": "/samsung-galaxy-f62-laser-blue-128-gb/p/itmba1329c393a14?pid=MOBFZWSTSZGFGGTR&lid=LSTMOBFZWSTSZGFGGTREMWENA&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_33&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFZWSTSZGFGGTR.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F62 (Laser Blue, 128 GB)",
+            "price": "\u20b925,999",
+            "ratings": "5,985",
+            "reviews": "823",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f62-laser-blue-128-gb/p/itmf82cc5e797312?pid=MOBFZWSUHXGQMUPH&lid=LSTMOBFZWSUHXGQMUPHYZDVLJ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_34&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFZWSUHXGQMUPH.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F62 (Laser Blue, 128 GB)",
+            "price": "\u20b923,999",
+            "ratings": "11,788",
+            "reviews": "1,648",
             "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m12-blue-64-gb/p/itm062b6548d8904?pid=MOBGFG8GCPEGKGF4&lid=LSTMOBGFG8GCPEGKGF4PS9FVT&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_35&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBGFG8GCPEGKGF4.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M12 (Blue, 64 GB)",
+            "price": "\u20b911,318",
+            "ratings": "92",
+            "reviews": "8",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f62-laser-grey-128-gb/p/itm97ec206bb0bde?pid=MOBFZWSUMTPWSGQH&lid=LSTMOBFZWSUMTPWSGQHBJDWJX&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_36&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFZWSUMTPWSGQH.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",
+            "price": "\u20b925,999",
+            "ratings": "5,985",
+            "reviews": "823",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a31-prism-crush-black-128-gb/p/itm629da21d10cba?pid=MOBFRZZHWPX3YG2J&lid=LSTMOBFRZZHWPX3YG2JP5DVNQ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_37&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFRZZHWPX3YG2J.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A31 (Prism Crush Black, 128 GB)",
+            "price": "\u20b916,999",
+            "ratings": "8,773",
+            "reviews": "815",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-music-2/p/itmebfnmhjcbthhk?pid=MOBF7HYWUXJFP7YB&lid=LSTMOBF7HYWUXJFP7YBF42XYY&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_38&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBF7HYWUXJFP7YB.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru Music 2",
+            "price": "\u20b91,878",
+            "ratings": "1,69,066",
+            "reviews": "16,454",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a31-prism-crush-white-128-gb/p/itma110137399bdc?pid=MOBFRZZHFMBJC4A6&lid=LSTMOBFRZZHFMBJC4A67RUS3Y&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_39&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFRZZHFMBJC4A6.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A31 (Prism Crush White, 128 GB)",
+            "price": "\u20b916,999",
+            "ratings": "8,773",
+            "reviews": "815",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m11-metallic-blue-64-gb/p/itm1a7c4dfe52d9c?pid=MOBFRZZHZGSRRWUZ&lid=LSTMOBFRZZHZGSRRWUZB4Y6G9&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_40&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFRZZHZGSRRWUZ.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M11 (Metallic Blue, 64 GB)",
+            "price": "\u20b910,823",
+            "ratings": "6,616",
+            "reviews": "535",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a21s-blue-64-gb/p/itm08a6ca5d92b9d?pid=MOBFSFMJHFVHCQ2X&lid=LSTMOBFSFMJHFVHCQ2XJK8P3O&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_41&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFSFMJHFVHCQ2X.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A21s (Blue, 64 GB)",
+            "price": "\u20b914,889",
+            "ratings": "6,532",
+            "reviews": "610",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a31-prism-crush-blue-128-gb/p/itmca37dc47f1c6a?pid=MOBFRZZHH4WHKZCW&lid=LSTMOBFRZZHH4WHKZCWSOSBOT&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_42&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFRZZHH4WHKZCW.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A31 (Prism Crush Blue, 128 GB)",
+            "price": "\u20b916,999",
+            "ratings": "8,773",
+            "reviews": "815",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-m02s-blue-64-gb/p/itm400a7720950fa?pid=MOBFZJ7KWHHAGUT8&lid=LSTMOBFZJ7KWHHAGUT8NBYVFP&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_43&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFZJ7KWHHAGUT8.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG M02s (Blue, 64 GB)",
+            "price": "\u20b910,215",
+            "ratings": "449",
+            "reviews": "33",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-m01-core-black-32-gb/p/itm608a437cc6d05?pid=MOBFUAEBGXVGX5US&lid=LSTMOBFUAEBGXVGX5USIYOMOH&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_44&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBFUAEBGXVGX5US.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG M01 core (Black, 32 GB)",
+            "price": "\u20b96,699",
+            "ratings": "6,731",
+            "reviews": "583",
+            "stars": "3.9",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m02-black-32-gb/p/itm16e9cd93db916?pid=MOBGY73CSBKNXA5W&lid=LSTMOBGY73CSBKNXA5W3FUAN0&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_45&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBGY73CSBKNXA5W.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M02 (Black, 32 GB)",
+            "price": "\u20b97,469",
+            "ratings": "304",
+            "reviews": "28",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m12-black-64-gb/p/itm425898eedc4ce?pid=MOBGFG8H4A32HTKJ&lid=LSTMOBGFG8H4A32HTKJFWL2FT&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_46&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBGFG8H4A32HTKJ.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M12 (Black, 64 GB)",
+            "price": "\u20b911,201",
+            "ratings": "92",
+            "reviews": "8",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-313-dual-sim/p/itmebdgsvgcbg4n6?pid=MOBEBDGSFTRFYGUP&lid=LSTMOBEBDGSFTRFYGUPYYYRUA&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_47&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBEBDGSFTRFYGUP.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 313 Dual Sim",
+            "price": "\u20b92,316",
+            "ratings": "11,345",
+            "reviews": "1,048",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m12-white-64-gb/p/itmfc7abd82822b2?pid=MOBGFG8GWBRPHMKT&lid=LSTMOBGFG8GWBRPHMKTQWJKA1&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_2_48&otracker=search&fm=organic&iid=f6b197d5-33d0-4740-b1f0-ed8fc43e6708.MOBGFG8GWBRPHMKT.SEARCH&ppt=None&ppn=None&ssid=h40ejjsuu80000001619592131528&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M12 (White, 64 GB)",
+            "price": "\u20b911,330",
+            "ratings": "92",
+            "reviews": "8",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-fm-plus-sm-b110e-d/p/itmeayygvzdgac68?pid=MOBEAYYGAZZTGAUK&lid=LSTMOBEAYYGAZZTGAUKHJUQIW&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_49&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBEAYYGAZZTGAUK.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru FM Plus SM-B110E/D",
+            "price": "\u20b91,556",
+            "ratings": "55,754",
+            "reviews": "5,692",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a51-prism-crush-blue-128-gb/p/itme8079f0fedb33?pid=MOBFZ4AJCTQTDJEB&lid=LSTMOBFZ4AJCTQTDJEBZOZVZI&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_50&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBFZ4AJCTQTDJEB.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A51 (Prism Crush Blue, 128 GB)",
+            "price": "\u20b920,999",
+            "ratings": "9,091",
+            "reviews": "1,073",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-m02s-red-64-gb/p/itm6c9ceffaa8e5c?pid=MOBFZG4DZCRQUEDC&lid=LSTMOBFZG4DZCRQUEDCOWFTTB&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_51&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBFZG4DZCRQUEDC.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG M02s (Red, 64 GB)",
+            "price": "\u20b910,110",
+            "ratings": "449",
+            "reviews": "33",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m31-ocean-blue-128-gb/p/itm1d7db8f4e2fec?pid=MOBFPNPSZYJXQZCM&lid=LSTMOBFPNPSZYJXQZCMDFOR1Z&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_52&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBFPNPSZYJXQZCM.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M31 (Ocean Blue, 128 GB)",
+            "price": "\u20b917,689",
+            "ratings": "9,584",
+            "reviews": "746",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m12-blue-128-gb/p/itme593a120f429d?pid=MOBGFZUHYABADANE&lid=LSTMOBGFZUHYABADANEZT7ZKW&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_53&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGFZUHYABADANE.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M12 (Blue, 128 GB)",
+            "price": "\u20b914,398",
+            "ratings": "14",
+            "reviews": "0",
+            "stars": "4.3",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-m12-black-128-gb/p/itme593a120f429d?pid=MOBGFZUNGH22RJZT&lid=LSTMOBGFZUNGH22RJZTT7PBMK&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_54&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGFZUNGH22RJZT.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M12 (Black, 128 GB)",
+            "price": "\u20b914,386",
+            "ratings": "14",
+            "reviews": "0",
+            "stars": "4.3",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-m02-blue-32-gb/p/itm37ad037b2bcc1?pid=MOBGY73CXJBUBTF7&lid=LSTMOBGY73CXJBUBTF7TZOVYG&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_55&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGY73CXJBUBTF7.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M02 (Blue, 32 GB)",
+            "price": "\u20b98,340",
+            "ratings": "293",
+            "reviews": "34",
+            "stars": "4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-fm-plus/p/itme9gyzeqnyzdux?pid=MOBE9GYZRG4XPSAB&lid=LSTMOBE9GYZRG4XPSABVYA7UV&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_56&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBE9GYZRG4XPSAB.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru FM Plus",
+            "price": "\u20b91,556",
+            "ratings": "22,050",
+            "reviews": "2,023",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a32-awesome-blue-128-gb/p/itma5f5399bf6c4d?pid=MOBGYRZG9ASEDZT7&lid=LSTMOBGYRZG9ASEDZT7UWQ1WF&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_57&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGYRZG9ASEDZT7.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A32 (Awesome Blue, 128 GB)",
+            "price": "\u20b921,999",
+            "ratings": "498",
+            "reviews": "38",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m01-blue-32-gb/p/itmc068b26305a0d?pid=MOBFRZZHMHQVNDFA&lid=LSTMOBFRZZHMHQVNDFADVVFBU&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_58&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBFRZZHMHQVNDFA.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M01 (Blue, 32 GB)",
+            "price": "\u20b98,299",
+            "ratings": "17,987",
+            "reviews": "1,337",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m21-midnight-blue-64-gb/p/itm322eb5a51f9a2?pid=MOBFSF86NH2HVZAW&lid=LSTMOBFSF86NH2HVZAWBFZLP5&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_59&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBFSF86NH2HVZAW.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M21 (Midnight Blue, 64 GB)",
+            "price": "\u20b914,090",
+            "ratings": "6,404",
+            "reviews": "483",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-fm-plus/p/itmf54p4tddnyf6a?pid=MOBF54P4Y285GZ4Y&lid=LSTMOBF54P4Y285GZ4YLX4JD4&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_60&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBF54P4Y285GZ4Y.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru FM Plus",
+            "price": "\u20b91,662",
+            "ratings": "22,050",
+            "reviews": "2,023",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f02s-diamond-black-32-gb/p/itm220082c8c872e?pid=MOBGFG79GYGKEHCA&lid=LSTMOBGFG79GYGKEHCA8JXDS1&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_61&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGFG79GYGKEHCA.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F02s (Diamond Black, 32 GB)",
+            "price": "\u20b98,999",
+            "ratings": "250",
+            "reviews": "23",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f02s-diamond-white-32-gb/p/itmcb173d96fe1b5?pid=MOBGFG79MASHH2ZH&lid=LSTMOBGFG79MASHH2ZHW0VOO3&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_62&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGFG79MASHH2ZH.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F02s (Diamond White, 32 GB)",
+            "price": "\u20b98,999",
+            "ratings": "250",
+            "reviews": "23",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a51-prism-crush-black-128-gb/p/itm38c2ee53cb67b?pid=MOBFZ4AJRFZTYZHJ&lid=LSTMOBFZ4AJRFZTYZHJ5MZTZS&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_63&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBFZ4AJRFZTYZHJ.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A51 (Prism Crush Black, 128 GB)",
+            "price": "\u20b920,999",
+            "ratings": "9,091",
+            "reviews": "1,073",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a12-black-128-gb/p/itm0f88a3c0cb309?pid=MOBGYCCGWY8EYMNW&lid=LSTMOBGYCCGWY8EYMNWW2ZDLT&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_64&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGYCCGWY8EYMNW.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A12 (Black, 128 GB)",
+            "price": "\u20b913,999",
+            "ratings": "1,126",
+            "reviews": "89",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a32-awesome-black-128-gb/p/itm3629d34759a4d?pid=MOBGYRZGHZZDAY5D&lid=LSTMOBGYRZGHZZDAY5D23CXUP&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_65&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGYRZGHZZDAY5D.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A32 (Awesome Black, 128 GB)",
+            "price": "\u20b921,999",
+            "ratings": "498",
+            "reviews": "38",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m31-ocean-blue-128-gb/p/itm1e7ce328b07b6?pid=MOBFUYQTFBAYCFKG&lid=LSTMOBFUYQTFBAYCFKG2FHD9U&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_66&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBFUYQTFBAYCFKG.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M31 (Ocean Blue, 128 GB)",
+            "price": "\u20b919,699",
+            "ratings": "760",
+            "reviews": "51",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-m01-core-red-32-gb/p/itm297a54063198e?pid=MOBFUAGVPHANZXNZ&lid=LSTMOBFUAGVPHANZXNZQEWE5W&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_67&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBFUAGVPHANZXNZ.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG M01 core (Red, 32 GB)",
+            "price": "\u20b96,399",
+            "ratings": "6,731",
+            "reviews": "583",
+            "stars": "3.9",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a12-black-64-gb/p/itm1e1faa9dcdfb5?pid=MOBGYCCGG2E47PQF&lid=LSTMOBGYCCGG2E47PQFTUZLW8&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_68&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGYCCGG2E47PQF.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A12 (Black, 64 GB)",
+            "price": "\u20b912,999",
+            "ratings": "1,126",
+            "reviews": "89",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a12-blue-128-gb/p/itm49e082e2d146a?pid=MOBGYCCGAP9FG7FV&lid=LSTMOBGYCCGAP9FG7FV68L5BG&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_69&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGYCCGAP9FG7FV.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A12 (Blue, 128 GB)",
+            "price": "\u20b913,999",
+            "ratings": "1,126",
+            "reviews": "89",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m21-raven-black-64-gb/p/itm771ab543df368?pid=MOBFSF867ET7DDMZ&lid=LSTMOBFSF867ET7DDMZH9SHSE&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_70&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBFSF867ET7DDMZ.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M21 (Raven Black, 64 GB)",
+            "price": "\u20b913,999",
+            "ratings": "6,404",
+            "reviews": "483",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m12-white-128-gb/p/itme593a120f429d?pid=MOBGFZUGASJGRSDK&lid=LSTMOBGFZUGASJGRSDKUTYEHY&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_71&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGFZUGASJGRSDK.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M12 (White, 128 GB)",
+            "price": "\u20b914,999",
+            "ratings": "14",
+            "reviews": "0",
+            "stars": "4.3",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-a72-awesome-black-128-gb/p/itme6d14bf36c7af?pid=MOBGF8GPFCD25ZU5&lid=LSTMOBGF8GPFCD25ZU5JZAVTA&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_3_72&otracker=search&fm=organic&iid=a04caf4b-3029-4617-91c1-b7a45f507aac.MOBGF8GPFCD25ZU5.SEARCH&ppt=None&ppn=None&ssid=ns8egabp5s0000001619592133825&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A72 (Awesome Black, 128 GB)",
+            "price": "\u20b934,999",
+            "ratings": "42",
+            "reviews": "3",
+            "stars": "4.4",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-m02-gray-32-gb/p/itm9f00523932d79?pid=MOBGY73CF6SYPZ3S&lid=LSTMOBGY73CF6SYPZ3SX0VTOE&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_73&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBGY73CF6SYPZ3S.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M02 (Gray, 32 GB)",
+            "price": "\u20b98,051",
+            "ratings": "293",
+            "reviews": "34",
+            "stars": "4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-fm-plus/p/itme9q93vhymngzj?pid=MOBE9Q93JDZNTEEA&lid=LSTMOBE9Q93JDZNTEEAXEPRJU&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_74&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBE9Q93JDZNTEEA.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru FM Plus",
+            "price": "\u20b91,575",
+            "ratings": "22,050",
+            "reviews": "2,023",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a21s-black-128-gb/p/itmcb23937a962e3?pid=MOBFWCFDEHTZVQMZ&lid=LSTMOBFWCFDEHTZVQMZ6HMJCL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_75&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFWCFDEHTZVQMZ.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A21s (Black, 128 GB)",
+            "price": "\u20b918,999",
+            "ratings": "6,532",
+            "reviews": "610",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a51-prism-crush-black-128-gb/p/itmabb4d1b812551?pid=MOBFS72HZ9A2FNZP&lid=LSTMOBFS72HZ9A2FNZPPCHXAQ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_76&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFS72HZ9A2FNZP.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A51 (Prism Crush Black, 128 GB)",
+            "price": "\u20b922,499",
+            "ratings": "3,348",
+            "reviews": "315",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m51-celestial-black-128-gb/p/itmd2177301257bb?pid=MOBFVV4HRYZSYBA6&lid=LSTMOBFVV4HRYZSYBA6KRXSTR&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_77&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFVV4HRYZSYBA6.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG GALAXY M51 (Celestial Black, 128 GB)",
+            "price": "\u20b924,990",
+            "ratings": "913",
+            "reviews": "70",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a51-prism-crush-blue-128-gb/p/itm821baad86fbc5?pid=MOBFS72HDJXVHAYP&lid=LSTMOBFS72HDJXVHAYPN2FL91&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_78&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFS72HDJXVHAYP.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A51 (Prism Crush Blue, 128 GB)",
+            "price": "\u20b922,499",
+            "ratings": "3,348",
+            "reviews": "315",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m51-celestial-black-128-gb/p/itm69f1475058168?pid=MOBFX3JN2QA3RYZE&lid=LSTMOBFX3JN2QA3RYZECEOSBR&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_79&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFX3JN2QA3RYZE.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M51 (Celestial Black, 128 GB)",
+            "price": "\u20b925,468",
+            "ratings": "394",
+            "reviews": "30",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m11-black-64-gb/p/itm2b3e5356a5b97?pid=MOBFRZZH4HHGU6YT&lid=LSTMOBFRZZH4HHGU6YT4PFACE&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_80&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFRZZH4HHGU6YT.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M11 (Black, 64 GB)",
+            "price": "\u20b910,634",
+            "ratings": "6,616",
+            "reviews": "535",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m31-space-black-128-gb/p/itma3f6d335a52e8?pid=MOBFUYQTCWZVMGEK&lid=LSTMOBFUYQTCWZVMGEKLTNTAW&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_81&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFUYQTCWZVMGEK.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M31 (Space Black, 128 GB)",
+            "price": "\u20b919,499",
+            "ratings": "760",
+            "reviews": "51",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-m02s-black-64-gb/p/itmdff37ef8aad22?pid=MOBFZG4C8VAYP4SH&lid=LSTMOBFZG4C8VAYP4SHSMU5FC&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_82&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFZG4C8VAYP4SH.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG M02s (Black, 64 GB)",
+            "price": "\u20b910,199",
+            "ratings": "450",
+            "reviews": "33",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a12-blue-64-gb/p/itmbabb87f25be1f?pid=MOBGYCCGCCAAXUVV&lid=LSTMOBGYCCGCCAAXUVVJUBGUD&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_83&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBGYCCGCCAAXUVV.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A12 (Blue, 64 GB)",
+            "price": "\u20b912,999",
+            "ratings": "1,126",
+            "reviews": "89",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m11-metallic-blue-32-gb/p/itme875f568bb05b?pid=MOBFRZZHHUZTTYCZ&lid=LSTMOBFRZZHHUZTTYCZSREQUD&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_84&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFRZZHHUZTTYCZ.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M11 (Metallic Blue, 32 GB)",
+            "price": "\u20b910,414",
+            "ratings": "9,968",
+            "reviews": "835",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-313/p/itmfggykzdqffhes?pid=MOBE9EZPEZZZ9UFE&lid=LSTMOBE9EZPEZZZ9UFERG4ABG&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_85&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBE9EZPEZZZ9UFE.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 313",
+            "price": "\u20b92,320",
+            "ratings": "1,115",
+            "reviews": "111",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a12-white-128-gb/p/itmc983691e03a7d?pid=MOBGYCCGGPXZHSWB&lid=LSTMOBGYCCGGPXZHSWBTXDFJB&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_86&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBGYCCGGPXZHSWB.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A12 (White, 128 GB)",
+            "price": "\u20b913,999",
+            "ratings": "1,126",
+            "reviews": "89",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a12-white-64-gb/p/itmde99ebe8ccc52?pid=MOBGYCCGPEPHFHWM&lid=LSTMOBGYCCGPEPHFHWMKALQMD&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_87&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBGYCCGPEPHFHWM.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A12 (White, 64 GB)",
+            "price": "\u20b912,999",
+            "ratings": "1,126",
+            "reviews": "89",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a51-haze-crush-silver-128-gb/p/itm1eb070d23f22d?pid=MOBFTW767YN8JXUQ&lid=LSTMOBFTW767YN8JXUQM0GVGO&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_88&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFTW767YN8JXUQ.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A51 (Haze Crush Silver, 128 GB)",
+            "price": "\u20b920,999",
+            "ratings": "9,091",
+            "reviews": "1,073",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a71-haze-crush-silver-128-gb/p/itm8ea4e16907549?pid=MOBFTQDBQRGVNGAZ&lid=LSTMOBFTQDBQRGVNGAZLF0QBD&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_89&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFTQDBQRGVNGAZ.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A71 (Haze Crush Silver, 128 GB)",
+            "price": "\u20b929,499",
+            "ratings": "6,064",
+            "reviews": "749",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m02-red-32-gb/p/itm8356b90b04f64?pid=MOBGY73CDWHBJKE7&lid=LSTMOBGY73CDWHBJKE7F6XUMO&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_90&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBGY73CDWHBJKE7.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M02 (Red, 32 GB)",
+            "price": "\u20b97,489",
+            "ratings": "304",
+            "reviews": "28",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a51-haze-crush-silver-128-gb/p/itmbd4cef8bba1de?pid=MOBFTW76ZWAJGFWA&lid=LSTMOBFTW76ZWAJGFWA0OGDAV&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_91&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFTW76ZWAJGFWA.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A51 (Haze Crush Silver, 128 GB)",
+            "price": "\u20b922,499",
+            "ratings": "3,348",
+            "reviews": "315",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m02-gray-32-gb/p/itm0b2dde2df85ad?pid=MOBGY73C7Y6HUTCR&lid=LSTMOBGY73C7Y6HUTCRNZMH8O&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_92&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBGY73C7Y6HUTCR.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M02 (Gray, 32 GB)",
+            "price": "\u20b97,368",
+            "ratings": "304",
+            "reviews": "28",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m51-electric-blue-128-gb/p/itme2ec4f481bae3?pid=MOBFVVEJRYZ73YSF&lid=LSTMOBFVVEJRYZ73YSFFZDANQ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_93&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFVVEJRYZ73YSF.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG GALAXY M51 (ELECTRIC BLUE, 128 GB)",
+            "price": "\u20b924,900",
+            "ratings": "913",
+            "reviews": "70",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s21-plus-phantom-violet-256-gb/p/itm56665cfc0924f?pid=MOBFZ3TM9RVNZACT&lid=LSTMOBFZ3TM9RVNZACTO0G0NE&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_94&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFZ3TM9RVNZACT.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S21 Plus (Phantom Violet, 256 GB)",
+            "price": "\u20b980,999",
+            "ratings": "79",
+            "reviews": "4",
+            "stars": "4.3",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-m31s-mirage-blue-128-gb/p/itmad022b9abd4b6?pid=MOBFUYMQUW5EKE7R&lid=LSTMOBFUYMQUW5EKE7R0GA7IS&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_95&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFUYMQUW5EKE7R.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M31s (Mirage Blue, 128 GB)",
+            "price": "\u20b918,999",
+            "ratings": "934",
+            "reviews": "77",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m21-iceberg-blue-64-gb/p/itm50475cfae8813?pid=MOBFXYA9ZMJG9VTY&lid=LSTMOBFXYA9ZMJG9VTYVS9HMZ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_4_96&otracker=search&fm=organic&iid=679b5038-ac1d-46a0-a685-2d0b8ac8814c.MOBFXYA9ZMJG9VTY.SEARCH&ppt=None&ppn=None&ssid=wgfkj7zmsg0000001619592138075&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M21 (Iceberg Blue, 64 GB)",
+            "price": "\u20b914,499",
+            "ratings": "6,404",
+            "reviews": "483",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-313/p/itmeb655tve5h68h?pid=MOBEB655EFYBXZGN&lid=LSTMOBEB655EFYBXZGNYHBNVG&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_97&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBEB655EFYBXZGN.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 313",
+            "price": "\u20b92,294",
+            "ratings": "530",
+            "reviews": "60",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s10-lite-prism-white-128-gb/p/itmb6f6f7cc402e7?pid=MOBFZ8HTSDNVQGPG&lid=LSTMOBFZ8HTSDNVQGPGFVGVCR&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_98&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFZ8HTSDNVQGPG.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S10 Lite (Prism White, 128 GB)",
+            "price": "\u20b936,960",
+            "ratings": "12,589",
+            "reviews": "3,036",
+            "stars": "4.5",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-fm-plus/p/itmevt7vgvhzyfdh?pid=MOBEA4FVFGGE9VTW&lid=LSTMOBEA4FVFGGE9VTW2IHPGD&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_99&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBEA4FVFGGE9VTW.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru FM Plus",
+            "price": "\u20b91,593",
+            "ratings": "22,049",
+            "reviews": "2,023",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s21-plus-phantom-black-256-gb/p/itm1e8ce2b1729cf?pid=MOBFZ3TMAZGVZF5D&lid=LSTMOBFZ3TMAZGVZF5DQJFNGL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_100&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFZ3TMAZGVZF5D.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S21 Plus (Phantom Black, 256 GB)",
+            "price": "\u20b980,999",
+            "ratings": "79",
+            "reviews": "4",
+            "stars": "4.3",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-a21s-black-64-gb/p/itm32c75908268b4?pid=MOBFSFMJ7F9YHGGC&lid=LSTMOBFSFMJ7F9YHGGCT1SWC7&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_101&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFSFMJ7F9YHGGC.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A21s (Black, 64 GB)",
+            "price": "\u20b914,999",
+            "ratings": "6,532",
+            "reviews": "610",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f62-laser-green-128-gb/p/itm3659bc5ac2601?pid=MOBFZWSUEMTZDC7U&lid=LSTMOBFZWSUEMTZDC7UZERVOF&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_102&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFZWSUEMTZDC7U.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F62 (Laser Green, 128 GB)",
+            "price": "\u20b923,999",
+            "ratings": "11,789",
+            "reviews": "1,647",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-313/p/itme93j4frqta6hh?pid=MOBE93J4SVDPGWYM&lid=LSTMOBE93J4SVDPGWYM16RKNC&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_103&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBE93J4SVDPGWYM.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 313",
+            "price": "\u20b92,288",
+            "ratings": "1,745",
+            "reviews": "158",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a21s-blue-128-gb/p/itm9b1380dccb8dc?pid=MOBFWCFDZWGKHXNG&lid=LSTMOBFWCFDZWGKHXNGRN8EX0&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_104&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFWCFDZWGKHXNG.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A21s (Blue, 128 GB)",
+            "price": "\u20b918,999",
+            "ratings": "6,532",
+            "reviews": "610",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a50-white-64-gb/p/itmfe4csgmyzcyup?pid=MOBFE4CSQ4MDCBWF&lid=LSTMOBFE4CSQ4MDCBWFFQVYRT&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_105&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFE4CSQ4MDCBWF.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A50 (White, 64 GB)",
+            "price": "\u20b921,000",
+            "ratings": "67,600",
+            "reviews": "6,241",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m31s-mirage-black-128-gb/p/itm34ee37ee1d8a0?pid=MOBFVWCTZYMFQH3J&lid=LSTMOBFVWCTZYMFQH3JLIVZBW&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_106&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFVWCTZYMFQH3J.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG GALAXY M31S (Mirage Black, 128 GB)",
+            "price": "\u20b922,997",
+            "ratings": "60",
+            "reviews": "9",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m51-electric-blue-128-gb/p/itme2ec4f481bae3?pid=MOBFVVEJRYZ73YSF&lid=LSTMOBFVVEJRYZ73YSF0VGO8F&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_107&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFVVEJRYZ73YSF.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG GALAXY M51 (ELECTRIC BLUE, 128 GB)",
+            "price": "\u20b924,999",
+            "ratings": "915",
+            "reviews": "70",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-plus-b110/p/itme9efyzsgsqqce?pid=MOBE9EFYHNMFWHQG&lid=LSTMOBE9EFYHNMFWHQG2SZ1SE&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_108&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBE9EFYHNMFWHQG.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru Plus B110",
+            "price": "\u20b91,585",
+            "ratings": "406",
+            "reviews": "40",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-note10-lite-aura-glow-128-gb/p/itm5a949e4bf4508?pid=MOBFZ4AJPCURHRQZ&lid=LSTMOBFZ4AJPCURHRQZZRK1DR&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_109&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFZ4AJPCURHRQZ.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Note10 Lite (Aura Glow, 128 GB)",
+            "price": "\u20b935,998",
+            "ratings": "1,505",
+            "reviews": "243",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-313/p/itme9vqfva8wswqh?pid=MOBE9VQYGV9YQMB3&lid=LSTMOBE9VQYGV9YQMB3YYREBN&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_110&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBE9VQYGV9YQMB3.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 313",
+            "price": "\u20b92,284",
+            "ratings": "1,745",
+            "reviews": "158",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s21-ultra-phantom-silver-256-gb/p/itm33747d3aa16d9?pid=MOBFZ3TMAHBPXYNZ&lid=LSTMOBFZ3TMAHBPXYNZS9EVOI&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_111&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFZ3TMAHBPXYNZ.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S21 Ultra (Phantom Silver, 256 GB)",
+            "price": "\u20b91,05,999",
+            "ratings": "382",
+            "reviews": "88",
+            "stars": "4.6",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s10-lite-prism-black-512-gb/p/itm17d286bbca7ba?pid=MOBFPDVHFE8VVD9R&lid=LSTMOBFPDVHFE8VVD9RCNLMY9&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_112&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFPDVHFE8VVD9R.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S10 Lite (Prism Black, 512 GB)",
+            "price": "\u20b945,999",
+            "ratings": "12,589",
+            "reviews": "3,036",
+            "stars": "4.5",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m31s-mirage-black-128-gb/p/itmb9b4be5c16ee2?pid=MOBFV25HNQP3VNGP&lid=LSTMOBFV25HNQP3VNGPXMXJKJ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_113&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFV25HNQP3VNGP.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M31s (Mirage Black, 128 GB)",
+            "price": "\u20b920,499",
+            "ratings": "934",
+            "reviews": "77",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a70s-prism-crush-red-128-gb/p/itmff05153bfcfa0?pid=MOBFKKGRHVDRVUY6&lid=LSTMOBFKKGRHVDRVUY6RCARTS&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_114&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFKKGRHVDRVUY6.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A70s (Prism Crush Red, 128 GB)",
+            "price": "\u20b925,999",
+            "ratings": "1,069",
+            "reviews": "114",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-sm-b110e-d/p/itmebhmy4y9fse4z?pid=MOBEBHMYA9RDH6KW&lid=LSTMOBEBHMYA9RDH6KWZ74NMV&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_115&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBEBHMYA9RDH6KW.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Sm-B110E/D",
+            "price": "\u20b91,550",
+            "ratings": "218",
+            "reviews": "16",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m51-electric-blue-128-gb/p/itm4c319bae3c362?pid=MOBFX2HBBH8BSPTE&lid=LSTMOBFX2HBBH8BSPTEYJPYXH&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_116&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFX2HBBH8BSPTE.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M51 (Electric Blue, 128 GB)",
+            "price": "\u20b923,990",
+            "ratings": "394",
+            "reviews": "30",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s20-cosmic-gray-128-gb/p/itm7087be7ae167c?pid=MOBFZXZ25TPA68VH&lid=LSTMOBFZXZ25TPA68VHU5XEKN&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_117&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFZXZ25TPA68VH.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S20+ (Cosmic Gray, 128 GB)",
+            "price": "\u20b954,999",
+            "ratings": "18,406",
+            "reviews": "2,780",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m11-violet-32-gb/p/itm75f977995b456?pid=MOBFRZZHEMXTAE6H&lid=LSTMOBFRZZHEMXTAE6HTBJFSH&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_118&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFRZZHEMXTAE6H.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M11 (Violet, 32 GB)",
+            "price": "\u20b910,428",
+            "ratings": "9,968",
+            "reviews": "835",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a21s-silver-128-gb/p/itm50164b698e22c?pid=MOBFWCFDGDW84W6G&lid=LSTMOBFWCFDGDW84W6GC3VIAZ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_119&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFWCFDGDW84W6G.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A21s (Silver, 128 GB)",
+            "price": "\u20b918,999",
+            "ratings": "6,532",
+            "reviews": "610",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m11-black-32-gb/p/itm0871b45a83143?pid=MOBFRZZHRFVXDUZZ&lid=LSTMOBFRZZHRFVXDUZZQDZPIF&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_5_120&otracker=search&fm=organic&iid=cf982aee-0b24-42cf-be9c-64414e178cf9.MOBFRZZHRFVXDUZZ.SEARCH&ppt=None&ppn=None&ssid=sd1ocu1mn40000001619592140928&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M11 (Black, 32 GB)",
+            "price": "\u20b910,490",
+            "ratings": "9,968",
+            "reviews": "835",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m11-black-32-gb/p/itm0871b45a83143?pid=MOBFRZZHRFVXDUZZ&lid=LSTMOBFRZZHRFVXDUZZQDZPIF&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_121&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFRZZHRFVXDUZZ.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M11 (Black, 32 GB)",
+            "price": "\u20b910,490",
+            "ratings": "9,968",
+            "reviews": "835",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m01-black-32-gb/p/itm068396ac0c4a3?pid=MOBFRZZHV9KS2XGR&lid=LSTMOBFRZZHV9KS2XGRSKALTB&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_122&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFRZZHV9KS2XGR.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M01 (Black, 32 GB)",
+            "price": "\u20b97,895",
+            "ratings": "17,985",
+            "reviews": "1,337",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-f02s-diamond-white-64-gb/p/itm13ea380ea1fc4?pid=MOBGFG79NWTZMMHY&lid=LSTMOBGFG79NWTZMMHYAUBTRZ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_123&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBGFG79NWTZMMHY.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy F02s (Diamond White, 64 GB)",
+            "price": "\u20b99,999",
+            "ratings": "289",
+            "reviews": "13",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-gt-1200-r-i-m/p/itmdzmt5ggjhsyft?pid=MOBDZMSVFTR6JD3K&lid=LSTMOBDZMSVFTR6JD3KEHJDIU&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_124&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBDZMSVFTR6JD3K.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG GT 1200 R/I/M",
+            "price": "\u20b91,395",
+            "ratings": "755",
+            "reviews": "46",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s8-plus-midnight-black-64-gb/p/itmethrymujayh4y?pid=MOBESYUWPQW5ZQWV&lid=LSTMOBESYUWPQW5ZQWVSE6W9I&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_125&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBESYUWPQW5ZQWV.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S8 Plus (Midnight Black, 64 GB)",
+            "price": "\u20b953,990",
+            "ratings": "2,006",
+            "reviews": "338",
+            "stars": "4.6",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m11-violet-64-gb/p/itmb748a6ba4c6d9?pid=MOBFRZZHZTY3GHCY&lid=LSTMOBFRZZHZTY3GHCYIDOA0Y&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_126&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFRZZHZTY3GHCY.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M11 (Violet, 64 GB)",
+            "price": "\u20b910,672",
+            "ratings": "6,617",
+            "reviews": "535",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a32-awesome-white-128-gb/p/itma4dfda41e308c?pid=MOBGYRZGTFSUDXSY&lid=LSTMOBGYRZGTFSUDXSY064APJ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_127&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBGYRZGTFSUDXSY.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A32 (Awesome White, 128 GB)",
+            "price": "\u20b921,999",
+            "ratings": "498",
+            "reviews": "38",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-note10-lite-aura-red-128-gb/p/itm01849b7b430e5?pid=MOBFZ4AJZ6KGUPQR&lid=LSTMOBFZ4AJZ6KGUPQRBMSS0D&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_128&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFZ4AJZ6KGUPQR.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Note10 Lite (Aura Red, 128 GB)",
+            "price": "\u20b933,999",
+            "ratings": "402",
+            "reviews": "73",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m02-blue-32-gb/p/itm6bafd2df167b9?pid=MOBGY73CKG9HXZZB&lid=LSTMOBGY73CKG9HXZZBF69W5Q&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_129&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBGY73CKG9HXZZB.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M02 (Blue, 32 GB)",
+            "price": "\u20b97,999",
+            "ratings": "303",
+            "reviews": "28",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a72-awesome-blue-256-gb/p/itm2571e9a1b1fcb?pid=MOBGF8GPCKFJSZG4&lid=LSTMOBGF8GPCKFJSZG4BF30UE&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_130&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBGF8GPCKFJSZG4.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A72 (Awesome Blue, 256 GB)",
+            "price": "\u20b937,999",
+            "ratings": "41",
+            "reviews": "3",
+            "stars": "4.4",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-s21-ultra-phantom-black-256-gb/p/itmbec2f700e2ff3?pid=MOBFZ3TMSMXZATX3&lid=LSTMOBFZ3TMSMXZATX354XEIV&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_131&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFZ3TMSMXZATX3.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S21 Ultra (Phantom Black, 256 GB)",
+            "price": "\u20b91,05,999",
+            "ratings": "382",
+            "reviews": "88",
+            "stars": "4.6",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a72-awesome-black-256-gb/p/itm5939bdc9e3080?pid=MOBGF8GPMMHPTFNM&lid=LSTMOBGF8GPMMHPTFNMATRE7X&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_132&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBGF8GPMMHPTFNM.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A72 (Awesome Black, 256 GB)",
+            "price": "\u20b937,999",
+            "ratings": "41",
+            "reviews": "3",
+            "stars": "4.4",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-m02s-black-32-gb/p/itme9edd93df8425?pid=MOBFZG4CZGKXZBQ2&lid=LSTMOBFZG4CZGKXZBQ2JAGF7W&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_133&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFZG4CZGKXZBQ2.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG M02s (Black, 32 GB)",
+            "price": "\u20b99,295",
+            "ratings": "226",
+            "reviews": "12",
+            "stars": "4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-note10-lite-aura-glow-128-gb/p/itm75d7d0aa98681?pid=MOBFZ4AJTYFSXMCV&lid=LSTMOBFZ4AJTYFSXMCVQO4DEW&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_134&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFZ4AJTYFSXMCV.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Note10 Lite (Aura Glow, 128 GB)",
+            "price": "\u20b933,990",
+            "ratings": "402",
+            "reviews": "73",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s20-fe-cloud-lavender-128-gb/p/itm963c7deda5fe1?pid=MOBFWAVTM5YD3JNE&lid=LSTMOBFWAVTM5YD3JNERH5YQZ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_135&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFWAVTM5YD3JNE.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S20 FE (Cloud Lavender, 128 GB)",
+            "price": "\u20b944,999",
+            "ratings": "393",
+            "reviews": "60",
+            "stars": "3.9",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s20-fe-cloud-white-128-gb/p/itm43c3c96db2180?pid=MOBFWAVTMGYNUDHW&lid=LSTMOBFWAVTMGYNUDHW6E1W6T&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_136&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFWAVTMGYNUDHW.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S20 FE (Cloud White, 128 GB)",
+            "price": "\u20b944,999",
+            "ratings": "393",
+            "reviews": "60",
+            "stars": "3.9",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s20-fe-cloud-navy-128-gb/p/itm90f8fb032ae3c?pid=MOBFWAVTQNMETGGG&lid=LSTMOBFWAVTQNMETGGGIJYV5O&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_137&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFWAVTQNMETGGG.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S20 FE (Cloud Navy, 128 GB)",
+            "price": "\u20b944,999",
+            "ratings": "393",
+            "reviews": "60",
+            "stars": "3.9",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s20-fe-cloud-mint-128-gb/p/itm7fa1752323997?pid=MOBFWAVTKRH6GFQG&lid=LSTMOBFWAVTKRH6GFQGIXJDO8&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_138&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFWAVTKRH6GFQG.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S20 FE (Cloud Mint, 128 GB)",
+            "price": "\u20b944,999",
+            "ratings": "393",
+            "reviews": "60",
+            "stars": "3.9",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a72-awesome-white-256-gb/p/itm5cb514b137019?pid=MOBGF8GPBTCRPWWQ&lid=LSTMOBGF8GPBTCRPWWQV0ZJRC&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_139&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBGF8GPBTCRPWWQ.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A72 (Awesome White, 256 GB)",
+            "price": "\u20b937,999",
+            "ratings": "41",
+            "reviews": "3",
+            "stars": "4.4",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-m31-prime-space-black-128-gb/p/itm665ecf78db868?pid=MOBFX77NDJXMDZZY&lid=LSTMOBFX77NDJXMDZZYVINXPK&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_140&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFX77NDJXMDZZY.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG M31 Prime (Space Black, 128 GB)",
+            "price": "\u20b917,339",
+            "ratings": "587",
+            "reviews": "47",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s21-plus-phantom-silver-128-gb/p/itme73a877a223a7?pid=MOBFZ3TMYAWQAJDP&lid=LSTMOBFZ3TMYAWQAJDP0NFLEA&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_141&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFZ3TMYAWQAJDP.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S21 Plus (Phantom Silver, 128 GB)",
+            "price": "\u20b976,999",
+            "ratings": "79",
+            "reviews": "4",
+            "stars": "4.3",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-a70s-prism-crush-white-128-gb/p/itm57a85273f03b6?pid=MOBFKKGRJCHHRJS5&lid=LSTMOBFKKGRJCHHRJS5Z6YUTR&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_142&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFKKGRJCHHRJS5.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A70s (Prism Crush White, 128 GB)",
+            "price": "\u20b925,999",
+            "ratings": "1,069",
+            "reviews": "114",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m40-midnight-blue-128-gb/p/itm24fee3825fd06?pid=MOBFGREWXSH4CMD8&lid=LSTMOBFGREWXSH4CMD8EVSD5D&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_143&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBFGREWXSH4CMD8.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M40 (Midnight Blue, 128 GB)",
+            "price": "\u20b914,990",
+            "ratings": "1,178",
+            "reviews": "78",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-1200/p/itmf54p4s6zyzstn?pid=MOBF54P4WHZ6PX6G&lid=LSTMOBF54P4WHZ6PX6GWO9WUG&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_6_144&otracker=search&fm=organic&iid=50c70ce6-f619-4f82-b5f9-a33ed3c3e712.MOBF54P4WHZ6PX6G.SEARCH&ppt=None&ppn=None&ssid=6fn9rqyp4w0000001619592143386&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru 1200",
+            "price": "\u20b91,100",
+            "ratings": "1,54,896",
+            "reviews": "13,900",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a9-caviar-black-128-gb/p/itmfaj72gwnhmkrv?pid=MOBFAJ724YYKAMXR&lid=LSTMOBFAJ724YYKAMXRCWQPFP&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_145&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFAJ724YYKAMXR.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A9 (Caviar Black, 128 GB)",
+            "price": "\u20b928,490",
+            "ratings": "567",
+            "reviews": "66",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m30-gradation-blue-64-gb/p/itmfehwz8b6bsvae?pid=MOBFEHSMHMYUMWYK&lid=LSTMOBFEHSMHMYUMWYK2NSKGJ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_146&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFEHSMHMYUMWYK.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M30 (Gradation Blue, 64 GB)",
+            "price": "\u20b913,490",
+            "ratings": "4,164",
+            "reviews": "307",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m30-blue-32-gb/p/itmb245858b3fe3b?pid=MOBFH6HYT5Z5ZPER&lid=LSTMOBFH6HYT5Z5ZPERUS6R3Z&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_147&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFH6HYT5Z5ZPER.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M30 (Blue, 32 GB)",
+            "price": "\u20b910,499",
+            "ratings": "867",
+            "reviews": "63",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-fold-2-mystic-bronze-256-gb/p/itm671a54e07349e?pid=MOBFYZ673HRWNNCD&lid=LSTMOBFYZ673HRWNNCDL1SJVT&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_148&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFYZ673HRWNNCD.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Fold 2 (Mystic Bronze, 256 GB)",
+            "price": "\u20b91,49,999",
+            "ratings": "3",
+            "reviews": "0",
+            "stars": "3.7",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-s21-plus-phantom-silver-256-gb/p/itm91e816538b593?pid=MOBFZ3TMHZ2WATFY&lid=LSTMOBFZ3TMHZ2WATFYUBE3AB&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_149&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFZ3TMHZ2WATFY.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S21 Plus (Phantom Silver, 256 GB)",
+            "price": "\u20b980,999",
+            "ratings": "79",
+            "reviews": "4",
+            "stars": "4.3",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-note-20-mystic-bronze-256-gb/p/itm00f9f3258025f?pid=MOBFU5WYMX5Y8YCY&lid=LSTMOBFU5WYMX5Y8YCYK1M7UA&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_150&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFU5WYMX5Y8YCY.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Note 20 (Mystic Bronze, 256 GB)",
+            "price": "\u20b977,999",
+            "ratings": "64",
+            "reviews": "6",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s21-plus-phantom-black-128-gb/p/itm9a7e14ec0799d?pid=MOBFZ3TMYQ8WTHJE&lid=LSTMOBFZ3TMYQ8WTHJE7MWZ1U&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_151&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFZ3TMYQ8WTHJE.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S21 Plus (Phantom Black, 128 GB)",
+            "price": "\u20b976,999",
+            "ratings": "79",
+            "reviews": "4",
+            "stars": "4.3",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-s21-plus-phantom-violet-256-gb/p/itm56665cfc0924f?pid=MOBFZ3TM9RVNZACT&lid=LSTMOBFZ3TM9RVNZACTO0G0NE&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_152&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFZ3TM9RVNZACT.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S21 Plus (Phantom Violet, 256 GB)",
+            "price": "\u20b980,999",
+            "ratings": "79",
+            "reviews": "4",
+            "stars": "4.3",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-s21-plus-phantom-violet-128-gb/p/itm6b93d46604033?pid=MOBFZ3TMT2RHYG5K&lid=LSTMOBFZ3TMT2RHYG5KXJOVPS&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_153&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFZ3TMT2RHYG5K.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S21 Plus (Phantom Violet, 128 GB)",
+            "price": "\u20b976,999",
+            "ratings": "79",
+            "reviews": "4",
+            "stars": "4.3",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-guru-music-2/p/itmf54p4q2z3kudy?pid=MOBF54P4G66ZBJ9K&lid=LSTMOBF54P4G66ZBJ9KOVOGXA&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_154&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBF54P4G66ZBJ9K.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru Music 2",
+            "price": "\u20b91,450",
+            "ratings": "1,69,066",
+            "reviews": "16,454",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-note-20-mystic-green-256-gb/p/itm024a31c732799?pid=MOBFU5WYVAAGDCGW&lid=LSTMOBFU5WYVAAGDCGWKJD8SS&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_155&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFU5WYVAAGDCGW.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Note 20 (Mystic Green, 256 GB)",
+            "price": "\u20b977,999",
+            "ratings": "64",
+            "reviews": "6",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a80-phantom-black-128-gb/p/itmfghz3gneezbyh?pid=MOBFGHZ2CHC2SYSA&lid=LSTMOBFGHZ2CHC2SYSA3ZNXFG&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_156&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFGHZ2CHC2SYSA.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A80 (Phantom Black, 128 GB)",
+            "price": "\u20b952,000",
+            "ratings": "5,383",
+            "reviews": "716",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m30-gradation-black-64-gb/p/itmffyjauqvedwua?pid=MOBFFYFQ4CDPXGUP&lid=LSTMOBFFYFQ4CDPXGUPUPW1IP&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_157&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFFYFQ4CDPXGUP.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M30 (Gradation Black, 64 GB)",
+            "price": "\u20b913,490",
+            "ratings": "4,164",
+            "reviews": "307",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a30s-prism-crush-violet-128-gb/p/itmb6bec3b228ab7?pid=MOBFNZGE5GNBCGVZ&lid=LSTMOBFNZGE5GNBCGVZVOCLKH&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_158&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFNZGE5GNBCGVZ.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A30s (Prism Crush Violet, 128 GB)",
+            "price": "\u20b916,990",
+            "ratings": "4,253",
+            "reviews": "322",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m30-gradation-blue-128-gb/p/itmfesgtsz4kgzba?pid=MOBFERW7XXSYQYH3&lid=LSTMOBFERW7XXSYQYH3QTYJZU&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_159&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFERW7XXSYQYH3.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M30 (Gradation Blue, 128 GB)",
+            "price": "\u20b916,490",
+            "ratings": "340",
+            "reviews": "23",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-note-20-mystic-blue-256-gb/p/itm02d10969ce115?pid=MOBFUKHDNAZGZUAZ&lid=LSTMOBFUKHDNAZGZUAZ61UC2X&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_160&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFUKHDNAZGZUAZ.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Note 20 (Mystic Blue, 256 GB)",
+            "price": "\u20b977,999",
+            "ratings": "64",
+            "reviews": "6",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s10-prism-blue-128-gb/p/itmfdyp6pajfhsvf?pid=MOBFDNHAYZYR5VXE&lid=LSTMOBFDNHAYZYR5VXEY81WFW&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_161&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFDNHAYZYR5VXE.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S10 (Prism Blue, 128 GB)",
+            "price": "\u20b971,000",
+            "ratings": "1,800",
+            "reviews": "188",
+            "stars": "4.6",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-m02s-blue-32-gb/p/itmd793851788c1c?pid=MOBFZJ7KYB8U8KPY&lid=LSTMOBFZJ7KYB8U8KPYV7JZAR&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_162&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFZJ7KYB8U8KPY.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG M02s (Blue, 32 GB)",
+            "price": "\u20b98,597",
+            "ratings": "226",
+            "reviews": "12",
+            "stars": "4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a6-blue-64-gb/p/itmf7f65udsrfezn?pid=MOBF7F65HBUYF2TY&lid=LSTMOBF7F65HBUYF2TYC0IWFM&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_163&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBF7F65HBUYF2TY.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A6+ (Blue, 64 GB)",
+            "price": "\u20b925,600",
+            "ratings": "4,213",
+            "reviews": "439",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m21-raven-black-128-gb/p/itm36be49613446e?pid=MOBFSF86ZVPMUZD3&lid=LSTMOBFSF86ZVPMUZD3ADIYKX&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_164&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFSF86ZVPMUZD3.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M21 (Raven Black, 128 GB)",
+            "price": "\u20b915,990",
+            "ratings": "1,350",
+            "reviews": "96",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-note-20-ultra-5g-mystic-black-256-gb/p/itme2a64f28d2ae6?pid=MOBFU5WYPMCGAZ6J&lid=LSTMOBFU5WYPMCGAZ6JTZLDGQ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_165&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFU5WYPMCGAZ6J.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Note 20 Ultra 5G (Mystic Black, 256 GB)",
+            "price": "\u20b91,04,999",
+            "ratings": "190",
+            "reviews": "45",
+            "stars": "4.5",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s9-plus-midnight-black-64-gb/p/itmf33a6baxzmzfq?pid=MOBF2VWVGZCF39YY&lid=LSTMOBF2VWVGZCF39YYKQAGBC&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_166&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBF2VWVGZCF39YY.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S9 Plus (Midnight Black, 64 GB)",
+            "price": "\u20b970,000",
+            "ratings": "38,902",
+            "reviews": "3,869",
+            "stars": "4.5",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s8-plus-maple-gold-64-gb/p/itmethry6ccarwmq?pid=MOBESYV7EGGFN3RH&lid=LSTMOBESYV7EGGFN3RHS63QQ2&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_167&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBESYV7EGGFN3RH.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S8 Plus (Maple Gold, 64 GB)",
+            "price": "\u20b953,990",
+            "ratings": "2,006",
+            "reviews": "338",
+            "stars": "4.6",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m30-black-32-gb/p/itm88d61845c0ce8?pid=MOBFH6HRX3WG97RQ&lid=LSTMOBFH6HRX3WG97RQD9OYU4&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_7_168&otracker=search&fm=organic&iid=09931355-ea4e-49ef-a3bb-fb655ab3cee0.MOBFH6HRX3WG97RQ.SEARCH&ppt=None&ppn=None&ssid=n1n25g9h5s0000001619592145949&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M30 (Black, 32 GB)",
+            "price": "\u20b910,499",
+            "ratings": "867",
+            "reviews": "63",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-313-dual-sim/p/itmeugbhqspvrmua?pid=MOBEUGBKUHTFERGW&lid=LSTMOBEUGBKUHTFERGWOVWMXX&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_169&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBEUGBKUHTFERGW.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 313 Dual Sim",
+            "price": "\u20b92,025",
+            "ratings": "12,355",
+            "reviews": "1,279",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a50-blue-64-gb/p/itmfe4cssxfzcph3?pid=MOBFE4CSRHGF4ETQ&lid=LSTMOBFE4CSRHGF4ETQGJSQUK&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_170&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFE4CSRHGF4ETQ.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A50 (Blue, 64 GB)",
+            "price": "\u20b924,000",
+            "ratings": "11,293",
+            "reviews": "988",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a6-gold-64-gb/p/itmf7f65k4kysmdh?pid=MOBF7F65G8YHXQQZ&lid=LSTMOBF7F65G8YHXQQZ0WBDHJ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_171&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBF7F65G8YHXQQZ.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A6 (Gold, 64 GB)",
+            "price": "\u20b925,500",
+            "ratings": "674",
+            "reviews": "68",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s10-prism-white-512-gb/p/itmfdyp6ydvhczvg?pid=MOBFDNHARGTYX5YG&lid=LSTMOBFDNHARGTYX5YGZPHCFJ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_172&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFDNHARGTYX5YG.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S10 (Prism White, 512 GB)",
+            "price": "\u20b992,000",
+            "ratings": "1,800",
+            "reviews": "188",
+            "stars": "4.6",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-note-9-ocean-blue-512-gb/p/itmf7x9zkfc7vman?pid=MOBF7HXTNGF3MJFD&lid=LSTMOBF7HXTNGF3MJFD1ITQAD&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_173&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBF7HXTNGF3MJFD.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Note 9 (Ocean Blue, 512 GB)",
+            "price": "\u20b993,000",
+            "ratings": "233",
+            "reviews": "25",
+            "stars": "4.6",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m51-electric-blue-128-gb/p/itm4c319bae3c362?pid=MOBFX2HBBH8BSPTE&lid=LSTMOBFX2HBBH8BSPTEYJPYXH&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_174&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFX2HBBH8BSPTE.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M51 (Electric Blue, 128 GB)",
+            "price": "\u20b923,990",
+            "ratings": "394",
+            "reviews": "30",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-guru-music-2-sm-b310e/p/itme9vzbmphfkdwa?pid=MOBE9VZBPVEGZC6X&lid=LSTMOBE9VZBPVEGZC6XTGDDGC&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_175&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBE9VZBPVEGZC6X.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Guru Music 2 SM-B310E",
+            "price": "\u20b91,890",
+            "ratings": "5,809",
+            "reviews": "447",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s20-ultra-cosmic-gray-128-gb/p/itma25b4687846b4?pid=MOBFZXZ22CWZ2JZB&lid=LSTMOBFZXZ22CWZ2JZB7GKWML&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_176&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFZXZ22CWZ2JZB.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S20 Ultra (Cosmic Gray, 128 GB)",
+            "price": "\u20b986,999",
+            "ratings": "93",
+            "reviews": "17",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-z4-gold-8-gb/p/itmeuyd7hytbzgvn?pid=MOBEU8N96CTFYAWG&lid=LSTMOBEU8N96CTFYAWG3DDGH0&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_177&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBEU8N96CTFYAWG.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Z4 (Gold, 8 GB)",
+            "price": "\u20b96,200",
+            "ratings": "1,209",
+            "reviews": "153",
+            "stars": "3.5",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s8-plus-coral-blue-64-gb/p/itmethrykawm5u68?pid=MOBESYV77M4Q7AUH&lid=LSTMOBESYV77M4Q7AUHAPV3RR&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_178&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBESYV77M4Q7AUH.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S8 Plus (Coral Blue, 64 GB)",
+            "price": "\u20b953,990",
+            "ratings": "2,006",
+            "reviews": "338",
+            "stars": "4.6",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-note-20-ultra-5g-mystic-bronze-256-gb/p/itm51cf448be3c02?pid=MOBFU5WY7UFG4KD9&lid=LSTMOBFU5WY7UFG4KD9Q7ZZJ2&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_179&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFU5WY7UFG4KD9.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Note 20 Ultra 5G (Mystic Bronze, 256 GB)",
+            "price": "\u20b91,04,999",
+            "ratings": "190",
+            "reviews": "45",
+            "stars": "4.5",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m40-seawater-blue-128-gb/p/itm513f46929acd2?pid=MOBFG83KGXJSBEWY&lid=LSTMOBFG83KGXJSBEWYWHSDVB&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_180&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFG83KGXJSBEWY.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M40 (Seawater Blue, 128 GB)",
+            "price": "\u20b915,490",
+            "ratings": "1,178",
+            "reviews": "78",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m40-cocktail-orange-128-gb/p/itm513f46929acd2?pid=MOBFNMRDC27KFZBR&lid=LSTMOBFNMRDC27KFZBRS8PJE5&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_181&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFNMRDC27KFZBR.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M40 (COCKTAIL ORANGE, 128 GB)",
+            "price": "\u20b915,490",
+            "ratings": "1,178",
+            "reviews": "78",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m30-gradation-black-128-gb/p/itmfesgx3fgxkanu?pid=MOBFERTHUAJJ4MWH&lid=LSTMOBFERTHUAJJ4MWHXNGHUJ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_182&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFERTHUAJJ4MWH.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M30 (Gradation Black, 128 GB)",
+            "price": "\u20b916,490",
+            "ratings": "340",
+            "reviews": "23",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-m31s-mirage-blue-128-gb/p/itmad022b9abd4b6?pid=MOBFUYMQUW5EKE7R&lid=LSTMOBFUYMQUW5EKE7R0GA7IS&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_183&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFUYMQUW5EKE7R.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy M31s (Mirage Blue, 128 GB)",
+            "price": "\u20b918,999",
+            "ratings": "934",
+            "reviews": "77",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a7-2017-gold-sand-32-gb/p/itmes42jeynqhfq3?pid=MOBES429GPANCACZ&lid=LSTMOBES429GPANCACZKZNRGF&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_184&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBES429GPANCACZ.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A7-2017 (Gold Sand, 32 GB)",
+            "price": "\u20b925,900",
+            "ratings": "277",
+            "reviews": "75",
+            "stars": "3.9",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a71-prism-crush-black-128-gb/p/itmef5c22a98030a?pid=MOBFZ4AJ2FZGJKCF&lid=LSTMOBFZ4AJ2FZGJKCFNNAK9J&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_185&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFZ4AJ2FZGJKCF.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A71 (Prism Crush Black, 128 GB)",
+            "price": "\u20b929,490",
+            "ratings": "6,064",
+            "reviews": "749",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-m01-core-black-16-gb/p/itmcc59efe93b40b?pid=MOBFUAEBGZKRFGHX&lid=LSTMOBFUAEBGZKRFGHXTOXCDL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_186&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFUAEBGZKRFGHX.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG M01 core (Black, 16 GB)",
+            "price": "\u20b94,999",
+            "ratings": "6,276",
+            "reviews": "508",
+            "stars": "4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-fold-2-mystic-black-256-gb/p/itm10950bf40aa69?pid=MOBFYZ67JNPRDY3T&lid=LSTMOBFYZ67JNPRDY3TO6IZVO&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_187&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFYZ67JNPRDY3T.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Fold 2 (Mystic Black, 256 GB)",
+            "price": "\u20b91,49,999",
+            "ratings": "3",
+            "reviews": "0",
+            "stars": "3.7",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-m01-core-blue-16-gb/p/itma9e257004962e?pid=MOBFUAEBBSAWG6HG&lid=LSTMOBFUAEBBSAWG6HGDFPYUX&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_188&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFUAEBBSAWG6HG.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG M01 core (Blue, 16 GB)",
+            "price": "\u20b94,999",
+            "ratings": "6,276",
+            "reviews": "508",
+            "stars": "4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-313/p/itme9xbfeytedxsq?pid=MOBE9XBFJDPV74TP&lid=LSTMOBE9XBFJDPV74TP1FZW5S&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_189&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBE9XBFJDPV74TP.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 313",
+            "price": "\u20b92,196",
+            "ratings": "1,747",
+            "reviews": "158",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s10-lite-prism-blue-128-gb/p/itm10bfdc05a4bda?pid=MOBFZ8HTYDB5RDZF&lid=LSTMOBFZ8HTYDB5RDZFVAPWQA&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_190&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBFZ8HTYDB5RDZF.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S10 Lite (Prism Blue, 128 GB)",
+            "price": "\u20b939,999",
+            "ratings": "12,589",
+            "reviews": "3,036",
+            "stars": "4.5",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j5-prime-gold-32-gb/p/itmeu7jz5egxaghm?pid=MOBEU7JZE4GAQM24&lid=LSTMOBEU7JZE4GAQM245PTRPX&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_191&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBEU7JZE4GAQM24.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J5 Prime (Gold, 32 GB)",
+            "price": "\u20b913,500",
+            "ratings": "3,363",
+            "reviews": "412",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a8-star-black-64-gb/p/itmfaa8wdges3v7y?pid=MOBF8WMQ2UY95V2V&lid=LSTMOBF8WMQ2UY95V2VFQLM6O&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_8_192&otracker=search&fm=organic&iid=00c904d1-c88f-4bc0-b752-c33beb35df78.MOBF8WMQ2UY95V2V.SEARCH&ppt=None&ppn=None&ssid=14ws5vzsjk0000001619592148759&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A8 Star (Black, 64 GB)",
+            "price": "\u20b925,990",
+            "ratings": "794",
+            "reviews": "106",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-m01-core-red-16-gb/p/itmc0e7614fd579e?pid=MOBFUAGV5QW3MMZW&lid=LSTMOBFUAGV5QW3MMZWBXA9WL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_193&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFUAGV5QW3MMZW.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG M01 core (Red, 16 GB)",
+            "price": "\u20b97,399",
+            "ratings": "6,276",
+            "reviews": "508",
+            "stars": "4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a21s-white-64-gb/p/itmcdf5214511a42?pid=MOBFSFMJFZDCCQZT&lid=LSTMOBFSFMJFZDCCQZTLLLJ4L&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_194&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFSFMJFZDCCQZT.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A21s (White, 64 GB)",
+            "price": "\u20b919,999",
+            "ratings": "6,532",
+            "reviews": "610",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j6-black-64-gb/p/itmf5bkh5snxdanh?pid=MOBF5BKHAK33A75F&lid=LSTMOBF5BKHAK33A75F9BQD76&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_195&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBF5BKHAK33A75F.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J6 (Black, 64 GB)",
+            "price": "\u20b914,990",
+            "ratings": "42,102",
+            "reviews": "2,534",
+            "stars": "4.5",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s10-plus-ceramic-black-512-gb/p/itmfdyp69zhpygfz?pid=MOBFDNHAEBRVM7NZ&lid=LSTMOBFDNHAEBRVM7NZPLXPQI&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_196&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFDNHAEBRVM7NZ.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S10 Plus (Ceramic Black, 512 GB)",
+            "price": "\u20b991,900",
+            "ratings": "1,205",
+            "reviews": "125",
+            "stars": "4.6",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a20-deep-blue-32-gb/p/itmffag4fpdgcguy?pid=MOBFFAG4C5CZF4VN&lid=LSTMOBFFAG4C5CZF4VNHIEBQO&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_197&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFFAG4C5CZF4VN.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A20 (Deep Blue, 32 GB)",
+            "price": "\u20b912,900",
+            "ratings": "15,497",
+            "reviews": "1,333",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-313/p/itme9v67fjwaxzwn?pid=MOBE9V67TZYGGMVC&lid=LSTMOBE9V67TZYGGMVCDNMWQK&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_198&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBE9V67TZYGGMVC.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 313",
+            "price": "\u20b92,299",
+            "ratings": "530",
+            "reviews": "60",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-350/p/itmeay8wzywhzjea?pid=MOBEAY8WECDRUMZV&lid=LSTMOBEAY8WECDRUMZVG88KOL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_199&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBEAY8WECDRUMZV.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 350",
+            "price": "\u20b93,007",
+            "ratings": "3,178",
+            "reviews": "290",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a6-gold-64-gb/p/itmf7f65czbmn4gg?pid=MOBF7F65MUBJGCSH&lid=LSTMOBF7F65MUBJGCSHEMHKYS&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_200&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBF7F65MUBJGCSH.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A6+ (Gold, 64 GB)",
+            "price": "\u20b921,990",
+            "ratings": "4,213",
+            "reviews": "439",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-313/p/itme8kfbzrtq8kej?pid=MOBE8KFBRJS3JEHS&lid=LSTMOBE8KFBRJS3JEHS4DAPKK&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_201&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBE8KFBRJS3JEHS.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 313",
+            "price": "\u20b92,282",
+            "ratings": "1,747",
+            "reviews": "158",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j5-prime-black-32-gb/p/itmeu7jzvnrhtmby?pid=MOBEU7JZEYSWGHSG&lid=LSTMOBEU7JZEYSWGHSGSO0LRB&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_202&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBEU7JZEYSWGHSG.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J5 Prime (Black, 32 GB)",
+            "price": "\u20b913,500",
+            "ratings": "3,363",
+            "reviews": "412",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a50-white-64-gb/p/itmfe4cs8hgupmta?pid=MOBFE4CSDXZHFGZ6&lid=LSTMOBFE4CSDXZHFGZ67UUSM1&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_203&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFE4CSDXZHFGZ6.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A50 (White, 64 GB)",
+            "price": "\u20b924,000",
+            "ratings": "11,293",
+            "reviews": "988",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a30-red-64-gb/p/itmfe7gzquf7gh3e?pid=MOBFE4CWZMKTZGFH&lid=LSTMOBFE4CWZMKTZGFHOJJ0QO&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_204&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFE4CWZMKTZGFH.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A30 (Red, 64 GB)",
+            "price": "\u20b918,000",
+            "ratings": "17,673",
+            "reviews": "1,441",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a30-black-64-gb/p/itmfec2hqbxcmbzn?pid=MOBFE4CSBDN9XETN&lid=LSTMOBFE4CSBDN9XETNK6F9XA&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_205&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFE4CSBDN9XETN.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A30 (Black, 64 GB)",
+            "price": "\u20b917,500",
+            "ratings": "17,673",
+            "reviews": "1,441",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-350/p/itmea4ca3knaenmu?pid=MOBEA4CA4TNVV2GZ&lid=LSTMOBEA4CA4TNVV2GZYBWI0U&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_206&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBEA4CA4TNVV2GZ.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 350",
+            "price": "\u20b93,200",
+            "ratings": "42",
+            "reviews": "1",
+            "stars": "3.9",
+            "sentible": 0
+        },
+        {
+            "link": "/samsung-galaxy-a30-blue-64-gb/p/itmfec2hhfgbsztr?pid=MOBFE4CSJX4KJN5R&lid=LSTMOBFE4CSJX4KJN5RRKSNGK&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_207&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFE4CSJX4KJN5R.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A30 (Blue, 64 GB)",
+            "price": "\u20b918,000",
+            "ratings": "17,673",
+            "reviews": "1,441",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j6-blue-64-gb/p/itmf5bkhbshehpg9?pid=MOBF5BKHVHFGWYHB&lid=LSTMOBF5BKHVHFGWYHBX8NNX6&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_208&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBF5BKHVHFGWYHB.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J6 (Blue, 64 GB)",
+            "price": "\u20b99,490",
+            "ratings": "42,102",
+            "reviews": "2,534",
+            "stars": "4.5",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a7-blue-64-gb/p/itmf9bt8kyf53msn?pid=MOBF9BT8MHEZDRHZ&lid=LSTMOBF9BT8MHEZDRHZ5OZB3A&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_209&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBF9BT8MHEZDRHZ.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A7 (Blue, 64 GB)",
+            "price": "\u20b917,990",
+            "ratings": "12,899",
+            "reviews": "1,303",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a20s-blue-32-gb/p/itmf6f28dfda35a8?pid=MOBFKKGRNXCA4FTW&lid=LSTMOBFKKGRNXCA4FTW0MSRM1&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_210&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFKKGRNXCA4FTW.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A20s (Blue, 32 GB)",
+            "price": "\u20b912,900",
+            "ratings": "1,086",
+            "reviews": "71",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j6-gold-64-gb/p/itmf5bkhw2vseffk?pid=MOBF5BKH5A2WFENZ&lid=LSTMOBF5BKH5A2WFENZZ5P5DG&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_211&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBF5BKH5A2WFENZ.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J6 (Gold, 64 GB)",
+            "price": "\u20b914,990",
+            "ratings": "42,102",
+            "reviews": "2,534",
+            "stars": "4.5",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a30s-prism-crush-black-128-gb/p/itmf1ed0ae20227d?pid=MOBFNZGEBGYMQCYP&lid=LSTMOBFNZGEBGYMQCYPOVBKAM&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_212&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFNZGEBGYMQCYP.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A30s (Prism Crush Black, 128 GB)",
+            "price": "\u20b918,199",
+            "ratings": "4,253",
+            "reviews": "322",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j7-prime-black-16-gb/p/itmemnhgfyzxzd7t?pid=MOBEMNHF97T55KYZ&lid=LSTMOBEMNHF97T55KYZ3NHTN0&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_213&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBEMNHF97T55KYZ.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J7 Prime (Black, 16 GB)",
+            "price": "\u20b918,328",
+            "ratings": "19,581",
+            "reviews": "3,333",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j2-2018-gold-16-gb/p/itmf5yh2sbgf3h8n?pid=MOBF47DRKFBAYVFX&lid=LSTMOBF47DRKFBAYVFXNQ8WIM&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_214&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBF47DRKFBAYVFX.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J2 2018 (Gold, 16 GB)",
+            "price": "\u20b97,500",
+            "ratings": "7,610",
+            "reviews": "712",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j7-nxt-gold-32-gb/p/itmfytd7qyhmcscs?pid=MOBFYTD7BF99TNAK&lid=LSTMOBFYTD7BF99TNAK7JRYJV&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_215&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBFYTD7BF99TNAK.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J7 Nxt (Gold, 32 GB)",
+            "price": "\u20b912,000",
+            "ratings": "2,220",
+            "reviews": "283",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j8-black-64-gb/p/itmf6gzusrgpzcf4?pid=MOBF6GZTM8BDQZGG&lid=LSTMOBF6GZTM8BDQZGGNXTYRR&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_9_216&otracker=search&fm=organic&iid=96ac1167-f3d1-43c6-8769-2b5ec718f1ef.MOBF6GZTM8BDQZGG.SEARCH&ppt=None&ppn=None&ssid=rs3z1peets0000001619591921714&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J8 (Black, 64 GB)",
+            "price": "\u20b919,500",
+            "ratings": "19,397",
+            "reviews": "1,962",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-e1270/p/itmeafzkf5wywhsb?pid=MOBEAFZKG9E7TZHY&lid=LSTMOBEAFZKG9E7TZHYFNEHZM&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_217&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBEAFZKG9E7TZHY.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG E1270",
+            "price": "\u20b93,499",
+            "ratings": "149",
+            "reviews": "17",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j6-plus-blue-64-gb/p/itmf94bxgkh5kzmq?pid=MOBF94BXS83YGWBX&lid=LSTMOBF94BXS83YGWBXKCAXT7&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_218&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBF94BXS83YGWBX.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J6 Plus (Blue, 64 GB)",
+            "price": "\u20b913,600",
+            "ratings": "4,938",
+            "reviews": "407",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-b313e-dual-sim-white/p/itmebdgswzufyrp2?pid=MOBEBDGSFG4UENAM&lid=LSTMOBEBDGSFG4UENAMQU52W5&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_219&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBEBDGSFG4UENAM.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro B313E Dual Sim - White",
+            "price": "\u20b92,299",
+            "ratings": "534",
+            "reviews": "56",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a50-black-64-gb/p/itmfe4cs57gyhnkz?pid=MOBFE4CSUQHGWE9V&lid=LSTMOBFE4CSUQHGWE9VFAXWYX&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_220&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBFE4CSUQHGWE9V.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A50 (Black, 64 GB)",
+            "price": "\u20b924,000",
+            "ratings": "11,293",
+            "reviews": "988",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-note-9-metallic-copper-128-gb/p/itmf7x9zfghwaefw?pid=MOBF7HXTC2J7YZ2E&lid=LSTMOBF7HXTC2J7YZ2ENIMVKU&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_221&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBF7HXTC2J7YZ2E.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy Note 9 (Metallic Copper, 128 GB)",
+            "price": "\u20b969,900",
+            "ratings": "2,118",
+            "reviews": "273",
+            "stars": "4.6",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a20-gold-32-gb/p/itmfhhqg5mxczxc9?pid=MOBFHCRGDFASPZRA&lid=LSTMOBFHCRGDFASPZRAQZAGZL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_222&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBFHCRGDFASPZRA.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A20 (Gold, 32 GB)",
+            "price": "\u20b912,900",
+            "ratings": "15,497",
+            "reviews": "1,333",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a6-black-64-gb/p/itmf7f659xfbmr2c?pid=MOBF7F65RHKJNYPH&lid=LSTMOBF7F65RHKJNYPHIWF8PO&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_223&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBF7F65RHKJNYPH.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A6 (Black, 64 GB)",
+            "price": "\u20b916,990",
+            "ratings": "674",
+            "reviews": "68",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j8-gold-64-gb/p/itmf6uvfmyuc8eys?pid=MOBF6GZTRMVDUVSJ&lid=LSTMOBF6GZTRMVDUVSJAFZ8PP&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_224&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBF6GZTRMVDUVSJ.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J8 (Gold, 64 GB)",
+            "price": "\u20b919,500",
+            "ratings": "19,397",
+            "reviews": "1,962",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a10s-black-32-gb/p/itm0d0ef983bbc47?pid=MOBFJPAQUNZRTVUX&lid=LSTMOBFJPAQUNZRTVUXD0M4WZ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_225&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBFJPAQUNZRTVUX.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A10s (Black, 32 GB)",
+            "price": "\u20b911,000",
+            "ratings": "2,258",
+            "reviews": "179",
+            "stars": "4.3",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-s6-edge-black-sapphire-32-gb/p/itme5z4azvgnwqhm?pid=MOBE5Z49V4ZHZPRH&lid=LSTMOBE5Z49V4ZHZPRHN7KYFG&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_226&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBE5Z49V4ZHZPRH.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy S6 Edge (Black Sapphire, 32 GB)",
+            "price": "\u20b937,299",
+            "ratings": "1,215",
+            "reviews": "265",
+            "stars": "4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-on7-black-8-gb/p/itmeuyd9c5adb58r?pid=MOBECCA5SMRSKCNY&lid=LSTMOBECCA5SMRSKCNYYRLOJD&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_227&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBECCA5SMRSKCNY.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy On7 (Black, 8 GB)",
+            "price": "\u20b99,977",
+            "ratings": "1,91,494",
+            "reviews": "25,468",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-350/p/itmeam8szgwzpryq?pid=MOBEAM8S7JVHTT72&lid=LSTMOBEAM8S7JVHTT72VWBMV3&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_228&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBEAM8S7JVHTT72.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 350",
+            "price": "\u20b93,013",
+            "ratings": "3,178",
+            "reviews": "290",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a6-blue-64-gb/p/itmfd9j8ehgtvm5m?pid=MOBF7F65CAFSVHWB&lid=LSTMOBF7F65CAFSVHWBMLJFQL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_229&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBF7F65CAFSVHWB.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A6 (Blue, 64 GB)",
+            "price": "\u20b916,990",
+            "ratings": "674",
+            "reviews": "68",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j4-gold-32-gb/p/itmf6fgzxgdnmu95?pid=MOBF649RZ6HT9ZQU&lid=LSTMOBF649RZ6HT9ZQUROQV3P&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_230&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBF649RZ6HT9ZQU.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J4 (Gold, 32 GB)",
+            "price": "\u20b910,990",
+            "ratings": "337",
+            "reviews": "31",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j5-prime-gold-16-gb/p/itmeshs24q297qsm?pid=MOBEMNHGABKEKCJR&lid=LSTMOBEMNHGABKEKCJRCHEOZH&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_231&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBEMNHGABKEKCJR.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J5 Prime (Gold, 16 GB)",
+            "price": "\u20b914,500",
+            "ratings": "1,205",
+            "reviews": "347",
+            "stars": "4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j5-prime-black-16-gb/p/itmeshs2fpehpdwa?pid=MOBEMNHGUTDKTGYW&lid=LSTMOBEMNHGUTDKTGYWIIIWHR&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_232&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBEMNHGUTDKTGYW.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J5 Prime (Black, 16 GB)",
+            "price": "\u20b914,500",
+            "ratings": "1,205",
+            "reviews": "347",
+            "stars": "4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a10-blue-32-gb/p/itmfen5uvzzwcm5f?pid=MOBFEN5UDNHGSGVX&lid=LSTMOBFEN5UDNHGSGVXYLMD2Y&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_233&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBFEN5UDNHGSGVX.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A10 (Blue, 32 GB)",
+            "price": "\u20b97,990",
+            "ratings": "13,050",
+            "reviews": "1,046",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-metro-350/p/itmeagf6quzmdepm?pid=MOBEAEH4XQK2AHQF&lid=LSTMOBEAEH4XQK2AHQF2B7WHQ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_234&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBEAEH4XQK2AHQF.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Metro 350",
+            "price": "\u20b93,062",
+            "ratings": "3,178",
+            "reviews": "290",
+            "stars": "4.1",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a20-black-32-gb/p/itmffag4tzdhzubq?pid=MOBFFAG4YPASHGEB&lid=LSTMOBFFAG4YPASHGEBBBAESB&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_235&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBFFAG4YPASHGEB.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A20 (Black, 32 GB)",
+            "price": "\u20b911,490",
+            "ratings": "15,497",
+            "reviews": "1,333",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a10-gold-32-gb/p/itmfhhqgehhfewkp?pid=MOBFHCRGJQJUY7QG&lid=LSTMOBFHCRGJQJUY7QGUG8RSJ&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_236&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBFHCRGJQJUY7QG.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A10 (Gold, 32 GB)",
+            "price": "\u20b98,700",
+            "ratings": "13,050",
+            "reviews": "1,046",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a20-red-32-gb/p/itmffag4kg6zzrca?pid=MOBFFAG46KYERGRF&lid=LSTMOBFFAG46KYERGRFVK2P5G&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_237&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBFFAG46KYERGRF.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A20 (Red, 32 GB)",
+            "price": "\u20b913,099",
+            "ratings": "15,497",
+            "reviews": "1,333",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j2-pro-gold-16-gb/p/itmeskmtbxykfvpp?pid=MOBESKMTQM7N9BXH&lid=LSTMOBESKMTQM7N9BXHF0FGBL&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_238&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBESKMTQM7N9BXH.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J2 Pro (Gold, 16 GB)",
+            "price": "\u20b910,480",
+            "ratings": "6,988",
+            "reviews": "787",
+            "stars": "4.2",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-j6-blue-32-gb/p/itmf5bkhm5zpvcq3?pid=MOBF5BKHYMMYEWN8&lid=LSTMOBF5BKHYMMYEWN8PZ60FW&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_239&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBF5BKHYMMYEWN8.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy J6 (Blue, 32 GB)",
+            "price": "\u20b912,990",
+            "ratings": "15,777",
+            "reviews": "1,599",
+            "stars": "4.4",
+            "sentible": 1
+        },
+        {
+            "link": "/samsung-galaxy-a10s-green-32-gb/p/itm72847b82eb95c?pid=MOBFJPAQNZTBSZFZ&lid=LSTMOBFJPAQNZTBSZFZAY9ZP1&marketplace=FLIPKART&q=samsung+mobiles&store=tyy%2F4io&srno=s_10_240&otracker=search&fm=organic&iid=656ed9a1-64bd-4418-9bf1-947d69505edb.MOBFJPAQNZTBSZFZ.SEARCH&ppt=None&ppn=None&ssid=1aa8wnlswg0000001619592153213&qH=0258c7d48242959a",
+            "name": "SAMSUNG Galaxy A10s (Green, 32 GB)",
+            "price": "\u20b99,840",
+            "ratings": "2,569",
+            "reviews": "201",
+            "stars": "4.4",
             "sentible": 1
         }
     ]
