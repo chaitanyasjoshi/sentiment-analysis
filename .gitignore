@@ -12,3 +12,8 @@ tests/coverage_html/
 tests/.coverage
 build/
 tests/report/
+
+# These files are generated on every search
+# No need to track them
+products.json
+sentiments.json
