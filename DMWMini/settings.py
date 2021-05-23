@@ -25,7 +25,7 @@ SECRET_KEY = '@9cdag950c_)u!(p4w6(8os+t5i+tnlg@3!j%d_87czj6303%z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ['127.0.0.1', 'fl-sentiment-analysis.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'fl-sentiment-analysis.herokuapp.com']
 
 
 # Application definition
