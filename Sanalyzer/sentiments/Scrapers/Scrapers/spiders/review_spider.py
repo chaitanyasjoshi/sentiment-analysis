@@ -220,8 +220,8 @@ class SearchPageCrawler(scrapy.Spider):
         
     def parse_all(self, response):
         product_info = {}
-        main_div = response.xpath('//*[@id="container"]/div/div[3]/div[2]/div[1]/div[2]')
-        row_divs = main_div.xpath("*[contains(@class, '_2pi5LC col-12-12')]")
+        main_div = response.xpath('//*[@id="container"]/div/div[3]/div[1]/div[2]')
+        row_divs = main_div.xpath("*[contains(@class, '_1AtVbE col-12-12')]")
         print("#######" + str(len(row_divs)))
         for row in row_divs[:-2]:
             prod_link = row.xpath('div/div/div/a/@href').get()
