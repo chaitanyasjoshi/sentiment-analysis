@@ -20,17 +20,46 @@ def calc():
             reviews.append(str(line))
             
     print(len(reviews))
-    noTotal, noPos, noNeg, perPos, perNeg = stat.stats(reviews)
+    noTotal_1, noPos_1, noNeg_1, perPos_1, perNeg_1 = stat.stats1(reviews)
+    noTotal_2, noPos_2, noNeg_2, perPos_2, perNeg_2 = stat.stats2(reviews)
+    noTotal_3, noPos_3, noNeg_3, perPos_3, perNeg_3 = stat.stats3(reviews)
     
-    perPos = float("{:.2f}".format(perPos))
-    perNeg = float("{:.2f}".format(perNeg))
+    perPos_1 = float("{:.2f}".format(perPos_1))
+    perNeg_1 = float("{:.2f}".format(perNeg_1))
+    perPos_2 = float("{:.2f}".format(perPos_2))
+    perNeg_2 = float("{:.2f}".format(perNeg_2))
+    perPos_3 = float("{:.2f}".format(perPos_3))
+    perNeg_3 = float("{:.2f}".format(perNeg_3))
     
     sens = {
-        'noTotal': noTotal,
-        'noPos': noPos,
-        'noNeg': noNeg, 
-        'perPos': perPos,
-        'perNeg': perNeg, 
+        'className': "Logistic Regression",
+        'noTotal': noTotal_1,
+        'noPos': noPos_1,
+        'noNeg': noNeg_1, 
+        'perPos': perPos_1,
+        'perNeg': perNeg_1, 
+    }
+    
+    sentiments['data'].append(sens)
+    
+    sens = {
+        'className': "Stochastic Gradient Descent",
+        'noTotal': noTotal_2,
+        'noPos': noPos_2,
+        'noNeg': noNeg_2, 
+        'perPos': perPos_2,
+        'perNeg': perNeg_2, 
+    }
+    
+    sentiments['data'].append(sens)
+    
+    sens = {
+        'className': "Multinomial NB",
+        'noTotal': noTotal_3,
+        'noPos': noPos_3,
+        'noNeg': noNeg_3, 
+        'perPos': perPos_3,
+        'perNeg': perNeg_3, 
     }
     
     sentiments['data'].append(sens)
